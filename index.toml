@@ -38,6 +38,10 @@ hash = "305a34ff97e8d5d84f78f760faa604d3ac72fe96cee5ae0615d743dd5b121eac"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "41ef1eb6ae55e4de8af9a812df0197cc40fb7e7fe868aba67740f747bd4c343b"
+
+[[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/boolet.ogg"
 hash = "0febda1c6193622456a4cd2d8c9ce803ed1a66ba36f1107c6723aea0b13e490e"
 
