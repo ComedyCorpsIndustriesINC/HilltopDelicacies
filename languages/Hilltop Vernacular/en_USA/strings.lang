@@ -1,0 +1,304 @@
+dimension.overworld.name=the Overworld
+dimension.nether.name=the Nether
+dimension.drift.name=the Drift
+
+season.overworld.spring.name=Spring
+season.overworld.summer.name=Summer
+season.overworld.fall.name=Fall
+season.overworld.winter.name=Winter
+season.overworld.hell.name=Hell
+season.overworld.winter.endless.name=Endless Winter
+season.drift.gold.name=Gold
+season.drift.silver.name=Silver
+season.null.name=No Season
+
+weather.overworld.clear.name=Clear
+weather.overworld.hell.clear.name=Clear
+weather.overworld.woods.clear.name=Clear
+weather.overworld.rain.name=Raining
+weather.overworld.snow.name=Snowing
+weather.overworld.winter.snow.name=Snowing
+weather.overworld.storm.name=Thundering
+weather.overworld.fog.name=Foggy
+
+gamemode.survival.name=Survival
+gamemode.creative.name=Creative
+gamemode.hardcore.name=Hardcore
+gamemode.adventure.name=Adventure
+gamemode.spectator.name=Spectator
+
+worldType.overworld.extended.name=Extended Default
+worldType.overworld.extended.desc=The intended experience for\nBTA, featuring larger biomes and\ntaller worlds.
+worldType.overworld.default.name=Default
+worldType.overworld.default.desc=A more vanilla-like experience.
+worldType.nether.default.name=Default
+worldType.drift.default.name=Default
+worldType.flat.name=Flat
+worldType.flat.desc=An infinite expanse of flat\ngrass.
+worldType.overworld.floating.name=Floating Islands
+worldType.overworld.floating.desc=A collection of dizzyingly tall\nfloating islands to explore.
+worldType.overworld.amplified.name=Amplified
+worldType.overworld.amplified.desc=Similar to Default, but allows\nterrain to generate up to 256\nblocks tall.
+worldType.overworld.retro.name=Retro
+worldType.overworld.retro.desc=Terrain generation as close as\npossible to Minecraft Alpha\n1.1.2_01.
+worldType.overworld.islands.name=Islands
+worldType.overworld.islands.desc=The sea level has been raised,\nturning the world into a series\nof islands with vast oceans\nbetween.
+worldType.overworld.winter.name=Endless Winter
+worldType.overworld.winter.desc=Similar to Default, but the snow\nnever stops piling up.
+worldType.overworld.hell.name=Hell
+worldType.overworld.hell.desc=This world ended long ago -\nsurvive it.
+worldType.overworld.woods.name=Woods
+worldType.overworld.woods.desc=Vast forests to explore.
+worldType.overworld.paradise.name=Paradise
+worldType.overworld.paradise.desc=Eternal sunshine and endless\nspring.
+worldType.empty.name=Empty
+worldType.empty.desc=Nothing but a single block of\nbedrock to get started.
+worldType.debug.name=Debug
+worldType.debug.desc=Generates every data value of\nevery block in the game (for\ntesting purposes.)
+worldType.overworld.inland.name=Inland
+worldType.overworld.inland.desc=Similar to Extended Default,\nbut with no oceans.
+worldType.overworld.classic.name=Classic
+worldType.overworld.classic.desc=Terrain generation similar to\nClassic, but infinite.
+worldType.overworld.indev.name=Indev
+worldType.overworld.indev.desc=Terrain generation similar to\nIndev, but infinite.
+worldType.overworld.skyblock.name=Skyblock
+worldType.overworld.skyblock.desc=Hardcore survival on a tiny\nisland in the sky.
+worldType.overworld.beta_173.name=Beta 1.7.3
+worldType.overworld.beta_173.desc=Terrain generation as similar as possible to\n Minecraft Beta 1.7.3.
+
+disconnect.genericReason=%s
+disconnect.disconnected=Disconnected by Server
+disconnect.lost=Connection Lost
+disconnect.kicked=Was straight up kicked from the game
+disconnect.timeout=Timed out
+disconnect.closed=Connection closed
+disconnect.loginFailed=Failed to login
+disconnect.loginFailedInfo=Failed to login: %s
+disconnect.quitting=Quitting
+disconnect.endOfStream=End of stream
+disconnect.overflow=Buffer overflow
+connect.failed=Connection failed
+
+damagetype.combat=Combat
+damagetype.projectile=Projectile
+damagetype.blast=Blast
+damagetype.fall=Fall
+damagetype.fire=Fire
+
+progress.tip=Tip: %s
+
+bed.occupied=This bed is occupied, dummy!!!
+bed.noSleep=You can only sleep at night or during thunderstorms :/ Get Real.
+bed.setSpawn=Respawn point set.
+bed.notValid=Your home bed was missing or the game could not respawn you at your bed.
+bed.noAllowSleeping=Sleeping is disabled (Fuuuuhkkkkk).
+bed.unsafeToSleep=It's not safe to sleep here. Watch Out.
+
+sign.image.none=None
+sign.image.arrow_right=Right Arrow
+sign.image.arrow_left=Left Arrow
+sign.image.arrow_down=Down Arrow
+sign.image.arrow_up=Up Arrow
+sign.image.caution=Caution
+sign.image.mobs=Mobs
+sign.image.trees=Trees
+sign.image.chest=Chest
+sign.image.pickaxe=Pickaxe
+sign.image.wolf=Wolf
+sign.image.sword=Sword
+sign.image.hoe=Hoe
+sign.image.axe=Axe
+sign.image.shovel=Shovel
+sign.image.bowl=Bowl
+sign.image.tnt=TNT
+sign.image.mob_farm=Mob Farm
+sign.image.mine=Mine
+sign.image.redstone=Redstone
+sign.image.farm=Farm
+sign.image.barricade=Barricade
+sign.image.question_mark=Question Mark
+sign.image.face_smile=Smiley Face
+sign.image.face_sad=Sad Face
+sign.image.face_crying=Crying Face
+sign.image.face_gasp=Gasping Face
+sign.image.face_thinking=Thinking Face
+sign.image.face_confused=Confused Face
+sign.image.big_sign=Big Sign
+sign.image.mob_zombie=Zombie
+sign.image.mob_skeleton=Skeleton
+sign.image.mob_creeper=Creeper
+sign.image.one_player=One Player
+sign.image.two_players=Two Players
+sign.image.three_players=Three Players
+sign.image.cross=Cross
+sign.image.craft=Craft
+sign.image.afk=AFK
+sign.image.brb=BRB
+sign.image.heart=Heart
+sign.image.arrows_left_right=Left Right Arrows
+sign.image.arrows_up_down=Up Down Arrows
+sign.image.check=Check
+sign.image.exit=Exit
+
+record.13=13
+record.cat=Cat
+record.blocks=Blocks
+record.chirp=Chirp
+record.far=Far
+record.mall=Mall
+record.mellohi=Mellohi
+record.stal=Stal
+record.strad=Strad
+record.ward=Ward
+record.wait=Wait
+record.dog=Dog
+
+flag.full=You have too many flags on this map!
+flag.overwrite=Cannot overwrite an existing pattern.
+flag.copied=Flag pattern copied.
+
+wand.wrongmode=You must be in Creative mode to use this item!
+
+save.data.missing.data=Level Metadata Missing!
+
+unit.day=Day
+
+direction.up=Up
+direction.down=Down
+direction.north=North
+direction.south=South
+direction.west=West
+direction.east=East
+direction.none=None
+
+side.top=Top
+side.bottom=Bottom
+side.north=North
+side.south=South
+side.west=West
+side.east=East
+side.none=None
+
+container.activator.name=Activator
+container.chest.name=Chest
+container.chest.large.name=Large Chest
+container.dispenser.name=Dispenser
+container.flag.name=Flag
+container.furnace.name=Furnace
+container.furnace_blast.name=Blast Furnace
+container.trommel.name=Trommel
+container.minecart.name=Minecart
+container.crafting.name=Crafting
+container.inventory.name=Inventory
+container.result.name=Resul
+
+gui.done=Done
+gui.cancel=Cancel
+gui.toMenu=Back to Title Screen
+gui.up=Up
+gui.down=Down
+gui.yes=Yes
+gui.no=No
+gui.ok=OK
+
+menu.singleplayer=Unemployed
+menu.multiplayer=Employed And On The Grind
+menu.multiplayer.disabled=Multiplayer (not ready yet!)
+menu.mods=Texture Packs
+menu.options=Options...
+menu.quit=Quit Game
+menu.saveAndQuit=Save and quit to title
+
+gui.photomode.help_text=Click and drag to move and rotate.
+
+selectWorld.title=Select World
+selectWorld.empty=empty
+selectWorld.world=World
+selectWorld.moreWorldOptions=More World Options
+selectWorld.select=Play Selected World
+selectWorld.create=Create New World
+selectWorld.createDemo=Play New Demo World
+selectWorld.delete=Delete
+selectWorld.rename=Rename
+selectWorld.deleteQuestion=Are you sure you want to delete this world?
+selectWorld.deleteWarning=will be lost forever! (A long time!)
+selectWorld.deleteButton=Delete
+selectWorld.renameButton=Rename
+selectWorld.renameTitle=Rename World
+selectWorld.conversion=Must be Converted!
+selectWorld.outdated=Outdated - can't be loaded (yet!)
+selectWorld.newWorld=New World
+selectWorld.enterName=World Name
+selectWorld.gamemode=Mode:
+selectWorld.cheats=Cheats:
+selectWorld.worldType=World Type:
+selectWorld.worldTypeTitle=Select World Type
+selectWorld.enterSeed=Seed
+selectWorld.deleteTitle=Delete World
+
+level.generating=Generating Level
+level.loading=Loading Level
+
+controller.noControllerSelected=No controller selected!
+controller.back=Back
+controller.help1=If no controllers are detected, make sure to
+controller.help2=launch the game with the controller plugged in.
+
+selectServer.title=Get on the grind...
+selectServer.connect=Join a crew. directly...
+selectServer.ip=Direct Connect
+selectServer.add=Add Crew....
+selectServer.delete=Delete...
+selectServer.refresh=Refresh...
+selectServer.edit=Edit...
+selectServer.renameServer=Rename Crew...
+selectServer.serverName=Crew Name...
+selectServer.serverIp=Crew Address...
+selectServer.deleteQuestion=Are you sure you want to abandon this ship?
+selectServer.deleteWarning=will be lost forever! (Wow!)
+
+addServer.title=Add Crew
+addServer.serverName=Crew Name
+addServer.ipAddress=Internet Pirate Address
+addServer.save=Save
+
+weather.overworld.clear.hell.name=Clear
+weather.overworld.clear.woods.name=Clear
+weather.overworld.rain.blood.name=Blood Rain
+
+gamemode.survival.name=Campaign
+gamemode.creative.name=Garry's Mod Mode
+
+multiplayer.title=Connect to Internet Pirate
+multiplayer.connect=Connect
+multiplayer.info1=
+multiplayer.info2=
+multiplayer.ipinfo=Enter the address of a crew to connect to it:
+
+multiplayer.downloadingTerrain=Downloading Terrain
+
+multiplayer.stopSleeping=GET UPPPPPPP!!!!!!!!!!!!!!!!!!!!
+
+demo.day.1=This demo will last five game days, do your best!
+demo.day.2=Day Two
+demo.day.3=Day Three
+demo.day.4=Day Four
+demo.day.5=This is your last day!
+demo.day.warning=Your time is almost up!
+demo.day.6=You have passed your fifth day, use F2 to save a screenshot of your creation
+demo.reminder=The demo time has expired, buy the game to continue or start a new world!
+demo.help.movement=Use %1$s, %2$s, %3$s, %4$s and the mouse to move around
+demo.help.jump=Jump by pressing %1$s
+demo.help.inventory=Use %1$s to open your inventory
+
+connect.connecting=Connecting to the crew...
+connect.authorizing=Setting Sails Up...
+connect.failed=Failed to set sail...
+
+controls.title=Controls
+keybinds.title=Keybinds
+keybinds.info=Press Escape to Disable Keys
+
+texturePack.openFolder=Open Texture Pack Folder
+texturePack.title=Select Texture Pack
+texturePack.folderInfo=(Place texture pack files here)

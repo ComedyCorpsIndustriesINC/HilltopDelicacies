@@ -5,6 +5,1046 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "languages/Hilltop Vernacular/desktop.ini"
+hash = "7b174dec003d417d09eb37e5a069f276f201e4fe5c893afb3e49cd9650450b7f"
+
+[[files]]
+file = "languages/Hilltop Vernacular/en_USA/info.lang"
+hash = "e65603a97bbd10ff4114638d45edbecadba01468ac9fd00bcb387a6248cc033d"
+
+[[files]]
+file = "languages/Hilltop Vernacular/en_USA/item.lang"
+hash = "37b38e52450c18704e652574c5d982da66225ce195e8795ba6694de8a0b77ef7"
+
+[[files]]
+file = "languages/Hilltop Vernacular/en_USA/strings.lang"
+hash = "3e99f895f248367500f001b56e19d5329927e9e60b08f2b9663faa73d7c2e819"
+
+[[files]]
+file = "languages/Hilltop Vernacular/en_USA/subtitles.lang"
+hash = "c4be17935a50e292dffe809fe9f2566517af08f7a9433259ced103f84b1ca296"
+
+[[files]]
+file = "languages/Hilltop Vernacular/en_USA/tile.lang"
+hash = "838da53bcb0318a0a9bff1a63acf3fe4d9be4f5b186c3d3572d0ac1b5dfa5949"
+
+[[files]]
+file = "languages/Hilltop Vernacular/lang_info.json"
+hash = "fa8f2a0f271cd2816ba0c3bdab5e987f14496d035db6587936be69db1a60e749"
+
+[[files]]
 file = "mods/fastboot.pw.toml"
 hash = "305a34ff97e8d5d84f78f760faa604d3ac72fe96cee5ae0615d743dd5b121eac"
 metafile = true
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/boolet.ogg"
+hash = "0febda1c6193622456a4cd2d8c9ce803ed1a66ba36f1107c6723aea0b13e490e"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/boolet2.ogg"
+hash = "2098d001f5fcff6039f756e2a9e1e16c442434b3ef1a149fe62d35366a504a06"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/boolet3.ogg"
+hash = "db9e84a560f0cc40af6c6cd8fd1c593f812ff0aa0a13acdb6efc3e4418aaac4f"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/gunshot.ogg"
+hash = "dd26a4d3d8dfa9161606f49d7b75a7ee3c6e88854de49361b80a253a35a2d42e"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/sounds.json"
+hash = "02e0551c74bce939d6565b66222e2dfedc3850bff4060877da594fdda6eb81e2"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/chain_1.png"
+hash = "bd7c7661d99990892e3eba24ac7aa0abe438c72fb78c7b3aa7034cc1c917880f"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/chain_2.png"
+hash = "036452d05f7d100855097bd83217e89b59c4413ea186745a42d347ee2ba4d9c8"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/cloth_1.emiss.png"
+hash = "76ba267b884fce113af7335348a9421078d8c714c8265c102089eb157473bfaa"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/cloth_1.png"
+hash = "301dff327833c5f5cdef6d05cb43ad4c5b1e4d0fcca96eb4cb39e6c5135f16f5"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/cloth_2.png"
+hash = "d9d936a7d9650fa29e4464e9b37d3c0e897c9a8d7a7fd3679fad4b242bdeaef7"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/diamond_1.png"
+hash = "b6b0fcdf615cd3e7852ab052e0aa546ac6a5bef94cdc8103d4b13a5e6534634a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/diamond_2.png"
+hash = "e8629a40f600cd1c3e14078d65189d67cc926828a50fc1cb6f97ca9ae9c8dbbe"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/gold_1.png"
+hash = "dd44579f25563d4f1fa47ab07c3a8d52a19b6b4dc77513b8a430b0b54316ea3b"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/gold_2.png"
+hash = "2c7f6ee8bad447b129e7916417bf672f7da9e23e08df05ecbbe1e0fd0dca9e2d"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/iron_1.png"
+hash = "49020632393003d2789b97d4cc7d9014c8ab26e7ace0c996d7e8460e4252f15a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/iron_2.png"
+hash = "e522e0a26b406e12248d445f8e7006064c29158de750fb4f0d930988fd12aa72"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/power.png"
+hash = "f5f661e460c2899389d1d2a5ad77ee6ec3cd29a01d4a24525460edbd240c078e"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/quiver.png"
+hash = "e423f69f22004ec92f1d55814a85d6e4d1cdea3e6d4875be3cd4ced798fda85f"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/quiver_golden.png"
+hash = "c8ce3d2fa0b458d501e959adabe620c1332b6d1d4887a75a647ff2e0cae3beae"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/skates.png"
+hash = "8371da4d405ffa8aaf422d09084bb4cb7310223eed4bf72b672c3a0d4840506b"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/steel_1.png"
+hash = "63aac77e4e1f57d11eb89aaa9340be7c083d440dcd26759adfa21da91be1d95d"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/steel_2.png"
+hash = "f3cbda02f1a0410d96e25ce65c98f67358ecec4ca17b7c3e3ed8a872590cac61"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/wolf/cloth.png"
+hash = "1e2250a4f6f4107ddd7f015443e24e0fef9aa7d48cc88599364bd0da7d3b1db6"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/alban.png"
+hash = "4439ac59418f8e5ebfb9f49c65f8f6c010e4309f945720444253c4aa559d0c70"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/allegory.png"
+hash = "002be68010d5fb80d712ccb7f881fc7921dc4ebe7bb469c62fd5d3d873484031"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/aztec.png"
+hash = "15264758cb103b525fe002f16543720cee442d98ab55c6c4f14e6ffee3aae05e"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/aztec2.png"
+hash = "f036192a373f8198a6f4c9721dc83b728eb88c599db1aad39fe2a2606b428a39"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/backing.png"
+hash = "9da8a3f117f8a0eae7af3cb26608ffbc24859e7768e92c862154cc10dd3bc013"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/bomb.png"
+hash = "aec476068d2a78eadfb1dea2f51f0c67559d02f2d55ed3cbba1183073422f07f"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/burning_skull.png"
+hash = "cb64611915f6b5a44c7b03e3f94c91bb1b041a1d51b332305027e0179d2bf66b"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/bust.png"
+hash = "16fe5db24013bba401fb1fe0ce0d7a0aeec444f187a5868e088e196ef866a93a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/cactus_bird.png"
+hash = "d4391c768511a46782d3fd3e7f198c42f927ee0584819332262071c9ecdc124e"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/courbet.png"
+hash = "00e0009e5408bc3c0883576928e429ab9b90b66e7a87ecc8612b9fe2fcebeff7"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/creebet.png"
+hash = "3d449ca2538b1c1c000b242b7e74b884c09cd2648a389fa73dc57c61174e0643"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/death_and_the_maiden.png"
+hash = "a75c65e8e0857386e074e22df2ed6b04173231b50723dca495b918fc08a9f0d2"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/dod_fagel.png"
+hash = "6284f6e65ca2f712211de7a37d5036e9976f79984a8dc9b34a3f63b118380fa8"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/donkey_kong.png"
+hash = "224f71f464ef5cb5a6b83cb45d81845512e614ac372b8ecb508cd625d55a1c5f"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/dresses.emiss.png"
+hash = "c70b17675db60ae7b6fc3d2179538e355bb91e4e705dcecb950334decfea4978"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/dresses.png"
+hash = "56fe8059328e2fce39c212bb16ad8c821d01b31eca6792c69acd8e9c122e97ac"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/fighters.png"
+hash = "f93b136a884f58fb11e04e253ed1e5675bdb691a5a636d340827dbd366359720"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/geology.png"
+hash = "7ef37901122e681c95a82c667671c52994c910ccdbbcfd990961c9c93bfc9d97"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/graham.png"
+hash = "e10d55a6fb687ee6d259530c351e32e0c47301ab0a46faa04e0a6f66b0e3096a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/kebab.png"
+hash = "dc37f074c6f0dbc1bfcb78a8d45b33816fa95c268793e55aa802f45db9f1457a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/match.png"
+hash = "3f7052b610f80507d582de7a9a92eab5ba37e04d625f6001abac291aca38d00c"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/monologue.png"
+hash = "85cdd84c34146ec034eed21ceb9e88a3adda0ad874edc98e2406b11ee88a9a23"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/pigscene.png"
+hash = "805a48ae45a4e32f40e7f022180804a19a2f849624fe5a55bd8d4faba90e6f29"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/plant.png"
+hash = "9c07028e3c689c4dc31e3be5e5a1fd71ea2102d9b136a173fae53a3fd6d6447a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/pointer.png"
+hash = "b6460f65ad7c4e050bc95f9f8e82c276159da8eaa91913cc652e56b11bc4d1e0"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/pool.png"
+hash = "69cdf4e334a60f007630adf4ba44ad70f156a5bbaddb49ffb72c588fc88835d9"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/sea.png"
+hash = "57182f37119ef43cef12cbd2195fbfa2a4777c446436168947a5a06a0fe84bb0"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/skeleton.png"
+hash = "bffec142bba49a00f8f943e7f2d4df81da0e290eb4df04f5c262fa3f5f049637"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/skull_and_roses.png"
+hash = "83c78afdfba163b84e899de02600a2ade871d6fadd8503b3462b145d62c3bec9"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/stage.png"
+hash = "c82bd68ea5100108de38badd7a2a5c29af11f8737ee2408c5c481a2bd4fb1d12"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/sunset.png"
+hash = "1e95d652b7e33e21bf71ac6a950a1012c6562330bc0d2a84c8a98e33b9eac619"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/the_blanket.png"
+hash = "9aa9f3dc125e812c240c0e061a677bdf31aebaea9ba4586efc3fbfc648b863aa"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/the_box.png"
+hash = "4f89b6207c0b83b43f61d4106254dbcee269776f3b9fb782ec54649abd85841a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/the_bull.png"
+hash = "d31fef76ffeefd6b5c54dfec599e8ca03167a7d1c84ca54caedb9dcd86e5e14b"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/the_golden_apple.png"
+hash = "3c1fc0871be6f58ecdf8cdd5e8f7e1b89dd849d3a1199e0b1b8e64342afa0b85"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/void.png"
+hash = "91e940d1991091486de0f73e4e898808e3beedcec8974fdf8d441b9a6c1b6827"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/wanderer.png"
+hash = "d6a39c1901e6ebd1561efb3c0d3efda81c5c80cc3007d90a0e0aeb5d968f7d7a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/art/wasteland.png"
+hash = "2c89228ee3b4fcef70ac7fe4ba2d4286d09414502a3ae1b85cd4fd9a8aaed6c2"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/cake/bottom.png"
+hash = "304da058faae14e3f7c4213742acd8ad1b52232feced2e5733870863a811ed1a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/cake/inner.png"
+hash = "23124a2ceb2504243f7e9849decb0da1f228150ad0486fa27458c6d489670dea"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/cake/side.png"
+hash = "d2708f07008b706b80d1be46f15ce29344aa7d91348436157e03ba319d2a7b8c"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/cake/top.png"
+hash = "02dd1a03626b3b7e700cf4119f4b011a17c87022d9d775ba208568843989c3ca"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/desktop.ini"
+hash = "e7c451417803ff1352fc1a0f7c188f5f28151cf3a719562ea214bc6a3abbc0d3"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/mushroom_brown.emiss.png"
+hash = "97c471b89e3f401cb52ab75f23ffae4ea08fb078a9efc644b1983b808c742f4a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/mushroom_brown.png"
+hash = "a7cbf2af2e2a25bf36a19c8d98b6a05d276f88b5d4cce447179e016120813306"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/mushroom_red.emiss.png"
+hash = "0b1438350ed92485035e28143c6b3eb4ebd49fd1c31f1629e458cda7d6e38978"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/mushroom_red.png"
+hash = "f0b90f1682ded98b9e91dd18b773137dbe0b58e83aa1b37c13bfd627fd4c5bea"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin/bottom.png"
+hash = "d1f77f91688eb789d2b514980724a49b2e00faa33309d01a00d3509925b8ee60"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin/side.png"
+hash = "8b69406898a590aed68fe0e14e09b317c0b62b5ad803ebbc9543ff6987dfc6af"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin/top.png"
+hash = "a4f197464b16b49d29d754f3007e379fd801bc2a4bb73973c0745238cdf4fa58"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_carved/bottom.png"
+hash = "d1f77f91688eb789d2b514980724a49b2e00faa33309d01a00d3509925b8ee60"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_carved/front.png"
+hash = "a7de8303d667a0e6a7e3ba513f813cf24975ec07ba0d5d859d7601289631ae34"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_carved/side.png"
+hash = "8b69406898a590aed68fe0e14e09b317c0b62b5ad803ebbc9543ff6987dfc6af"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_carved/top.png"
+hash = "a4f197464b16b49d29d754f3007e379fd801bc2a4bb73973c0745238cdf4fa58"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_carved_lit/bottom.png"
+hash = "d1f77f91688eb789d2b514980724a49b2e00faa33309d01a00d3509925b8ee60"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_carved_lit/front.emiss.png"
+hash = "bb51a3bb4b6bbb989d478e835eccabdcd7e1670495f377b48db3c4fc331ede5c"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_carved_lit/front.png"
+hash = "8d3f7aced2d2bba996e442023a2d274f971b7196dd4ef5de19878afb0564b578"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_carved_lit/side.png"
+hash = "8b69406898a590aed68fe0e14e09b317c0b62b5ad803ebbc9543ff6987dfc6af"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_carved_lit/top.png"
+hash = "a4f197464b16b49d29d754f3007e379fd801bc2a4bb73973c0745238cdf4fa58"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_pie/bottom.png"
+hash = "39259d5ccc065939386f5553b954670922a40950d33607a33a293f8015453547"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_pie/inner.png"
+hash = "354d9219c1bc18ca3d676a94f6d8a1da7c1826e915b11b0a0ddf9a355edef3cc"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_pie/side.png"
+hash = "7624b1ef344b50175ec15c447605c6521d707d5e8d2f16d20f47081d548fa670"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_pie/top.png"
+hash = "07c2dff4c5da73dc58b52bc8a07c06d1a50499550ac17c110d2c762bb5916731"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_redstone/bottom.png"
+hash = "d1f77f91688eb789d2b514980724a49b2e00faa33309d01a00d3509925b8ee60"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_redstone/front.emiss.png"
+hash = "bb51a3bb4b6bbb989d478e835eccabdcd7e1670495f377b48db3c4fc331ede5c"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_redstone/front.png"
+hash = "61ad6da545f33c212c0d43ac0b0335ef693bfbe62421170e97a14b78273d1cf2"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_redstone/side.png"
+hash = "8b69406898a590aed68fe0e14e09b317c0b62b5ad803ebbc9543ff6987dfc6af"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/pumpkin_redstone/top.png"
+hash = "a4f197464b16b49d29d754f3007e379fd801bc2a4bb73973c0745238cdf4fa58"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/torch_coal.emiss.png"
+hash = "d046e3fc1bd85a00e053123483eb4abb172542f546d48e4b619999145bb468c6"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/torch_coal.png"
+hash = "3531b5d2e2d1e5a87e87d60d3a09090ab7630980f90fb0f1524fda52ec6e91d0"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/colormap/stars/default.png"
+hash = "898b0f153141263ec50d78cdba826adcd1a891858fd58420675b39578a865b5e"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/arrowflaming.png"
+hash = "6b588aec2585907069fbf62f691ef65076f09cd7d5cc0d09e9e493ce9d985c2e"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/arrows.png"
+hash = "61e45fd5c105300e60ae132978f7882f6670039da6018653c6ffe61269018f2e"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/cannonball.emiss.png"
+hash = "b367dbdf4406e88664d2d16c00e1b1acc487a22449ad36943e21dff023550c4b"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/cannonball.png"
+hash = "7fb0b4191f36c0ad7d1743b6252bafc33909ce1ba88b23fa950eb8b5b6adce32"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/0.png"
+hash = "4eca45b4dbb0b2ece5658a205ce80cbc98778920e6f80f823810169b659d7f76"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/1.png"
+hash = "cbf8c46ad30cd8f5d15e82e7f96a43ad0d76c4fd5ea0e8f60163432a5849a6fe"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/2.png"
+hash = "ed9a8b6cd17fc44d4566103337f56853c8a7007649473972ad00a60aef0d6d31"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/3.png"
+hash = "69effd9c8f4483a8e5884f30de1fe0c474e17272efb4b3eee1321c8a2ba98713"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/4.png"
+hash = "91479c70575bc65f93a93ca6d5175c63333fd79b97d30574ff5b79fdafc19c94"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/5.png"
+hash = "25e22eb483b3a6a0b84c7b72e55621df1a09e71fbfd1db6b5f01dd1d9837be1f"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/6.png"
+hash = "33b505769d8a2792cf674184f0a01176ad57cf12720caae77b50e6822fc34ffd"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/7.png"
+hash = "452e82e004e8590e1bcacb486e6d7ad71e60f985ff1b0f0636bac27dd4d4f441"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/8.png"
+hash = "56cc4d343f5ad780f87d729f6a4a396f6db406336d76583a6e24da6df76a6b2f"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/mask_alex.png"
+hash = "f1014cbc71ebe50c8a440e7109d22cfe1fa3fa063b11ba843da52f09d88363e3"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/mask_steve.png"
+hash = "4e6ac0bcd13e1e05c9c07012c98d70a3b09ccd9cb1a24479580722a675703910"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/variants.json"
+hash = "b7d54b88896bc2278f0b2f2255c3f1a71b9e9d7b4ecf3f47ad8c3ae2f48f6bb5"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/environment/clouds.png"
+hash = "3fd9923c6a64318c639c5fe1580eae48f982822da13cb4c5d34a77816ca96ab8"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/environment/snow.png"
+hash = "11852bc2ab8311fa8997a82010a4603a2ab5ab1acec6cc0706d6f109225dc02b"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/environment/snow_light.png"
+hash = "36dfbee883930d286cb5ba6a4b84b225de54665a1d5e7ebd06b2424c026e8505"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/crosshair.png"
+hash = "40550dfafe044cb985d35b1c55bfa5c7498fe8ba6688088a5de43db13592b0d6"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
+hash = "da77b5844404eeba96bef627f03599c3281aa010a5911bb6cde1014e2212d661"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png"
+hash = "d7e9269f2cb864554059d353dff06583b6dcdac351f74d1c0fd2c319aa93e72f"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/hotbar_selection_locked.png"
+hash = "92ed2947793de2de26e48cb549fde70fcb7ecf3802d3d339ff3b810b9d2c4680"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/hotbar_selector.png"
+hash = "3f793f0e1be1b45477d5c1c4851c8e0b673bd156cdd36768113fba03b2106b85"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/hotbar_selector0.png"
+hash = "3210f789ce5a74a1319de21116e8df0380df413a883c4db30ce33e33c0ae95e8"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/hotbar_selector1.png"
+hash = "af93b3b95aaa8d315b48f804d800959e8f5a11955ced7c00dce8b4326807aa10"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/hotbar_selector2.png"
+hash = "0fdaf1c5af4280e57aee8d176be4d7006fde55cc20c1cb6e574892ce95ec6285"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/hotbar_selector3.png"
+hash = "889b2e868bbc8844f4d40a588bf22b5d8c5b5c68c5a2d87236cb74e19c49f1ec"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/ammo_arrow.png"
+hash = "b5f8bb1e80ea134b9f812061a5c6b2a01b9ba3581c45792dcc8e0495beb8830f"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/ammo_arrow_flaming.emiss.png"
+hash = "5e073455e2c735b4e9cca472430ce097a1c563c2dc5d89a5d93d0420fa85506e"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/ammo_arrow_flaming.png"
+hash = "cb70643d6e8c74023a6745d5feb7da6ce2b2e84adc538e93826ca481502f7cab"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/ammo_arrow_gold.png"
+hash = "bfc95bf6c0f6c0bedc07469650eea88e3041809edd53849d87305a98ee052934"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/ammo_arrow_purple.png"
+hash = "22a7fb367dcff84314c8f340ae8bcfa937df6676c45e78dc9c8c0cfbd2d1fb48"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/ammo_charge_explosive.emiss.png"
+hash = "f141f4bd5bdb289d76bccd6e6f05525e0f4364290c118dd62ca9e3194ff2b024"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/ammo_charge_explosive.png"
+hash = "1f04a48a1dc97b70c5e9dc77d2fbcf26adeabd35945c259304ce925dc7dce443"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_boots_chainmail.png"
+hash = "4dabba709c6a241398090b3583c75b9d332e486c14183b30e598ed6a77ad3865"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_boots_diamond.png"
+hash = "3f409c973bc56ae4a6d88a0a31407a94ed326bf4e3f2ae0c7567dc75096c236a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_boots_gold.png"
+hash = "230831d1a6510cdb4f6ce8cc9a6b9dad76fc57026a365c66759ecea30af93c93"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_boots_iceskates.png"
+hash = "69b1ed41119ce2ec07a1ce8533a5681e117c347b394d4382dd58ff073c17247a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_boots_iron.png"
+hash = "0824c60f82b0352ac331681df61d505b211bdcc039a38d5aa4852db033b5df3a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_boots_leather.png"
+hash = "b610ed7967f800a18eb0cc73bab43aac55b25b6da27c031de5083ceab0d58d4f"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_boots_steel.png"
+hash = "298b9ce58f1987f35cf059afdfc020bb872629229675e3d47d45b3ed70cabd28"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_chestplate_chainmail.png"
+hash = "e901d628f3fb83feb080a81ccb0cc8457bda9a8a05079294833f53d8bec52007"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_chestplate_diamond.png"
+hash = "0a1844a544502b91837e842c9b995095367b32355697d5a1c35d800271404bb3"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_chestplate_gold.png"
+hash = "afcdce76ac2737bcae7f4a4a897ff37e18a4fd1df5a8c4698c937a21786f99a4"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_chestplate_iron.png"
+hash = "f72c14d6201034ead39497cc43b4b91d211daef14ae3b9d9ce76eb8df2ac3196"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_chestplate_leather.png"
+hash = "38d1b347646ccb0211aa0eb4734efda35740964af354b7fb38b6ddd7e9966b1e"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_chestplate_steel.png"
+hash = "e20094e002d04a551db5312ee3e57d19d0e65117b007ff9d8cf7adfb2853ff62"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_helmet_chainmail.emiss.png"
+hash = "e5523c656fbdf6dc7ad3ddd77042dd3904a5577c2822d0e2aecb57093698c8a3"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_helmet_chainmail.png"
+hash = "8ad03aa9a25db560bcdce0637070572e2aae8b53cf1b979a3a55ad442befb56a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_helmet_diamond.png"
+hash = "d77f93c5773f348030f039320a565caf1e34fbce8a68224476ee883716161130"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_helmet_gold.png"
+hash = "6527d754f0b600630c5ec23ffeb05c97eafdb76bbd7d46330d82909848801911"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_helmet_iron.png"
+hash = "ccae6e41fac69006933e304b4ed341deb395e496ffcfd41a14f7927d033d429a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_helmet_leather.png"
+hash = "bfcf56d659572801f39bfd5f8af5e28e8c1320918f45699ed23b0c55a96ae784"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_helmet_steel.png"
+hash = "139e386b81544be3506cc19f205970a498b6632acfc82ad5e4db41120b3c4bb9"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_leggings_chainmail.png"
+hash = "fb95e8c0fca782935603e84e55757c124cbf1d8bc1f1931dae56dfc5d553538d"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_leggings_diamond.png"
+hash = "451be8a3d4922598e8a3ee9f5e082a7b49188be18ede6f0c64e96a23aaea8fdf"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_leggings_gold.png"
+hash = "91bcc50f5f91f1f5696d3a77984718d1d610d41323d8af26a497c5eacd5d51d4"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_leggings_iron.png"
+hash = "4ddb03c87656a98f9f83e27d5d3cde8a96c7b781eaf5c519121ce3377de60944"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_leggings_leather.png"
+hash = "fd2d0590c7720e91dcf7f31b2f615945b31c1a0ebe25f0f998f4ff3affa57bbe"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_leggings_steel.png"
+hash = "be9ed7afd2194c7afba640479b4a36055072221ee4aba659f1710087bcd2c4cb"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_quiver.png"
+hash = "bafa9f4517e4513015a56cc4dd9c717b987ed2bfbbf5dc745b50366a1e016274"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_quiver_empty.png"
+hash = "06b4f377f49ba294bffb1b9f38ef1728f68a38bd44499272bf96eee7740562ea"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_quiver_gold.png"
+hash = "53d56fb103016627bfb61cdf7a48f0fb0ef787c593e5305928149d3245a1af8b"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/armor_wolf_leather.png"
+hash = "5b3b796def3b13b9cf961c199d7baba35e06be15bc4fb4aa428ad6c8d409ef54"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bowl.png"
+hash = "1c1a0830c9ff0a4f397256186fe1acd99a8a900e47473a6ecab7e8f8712d81af"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_iron/acid_1.emiss.png"
+hash = "74c27f91ea5f294925e175d091b8a4c412e70bab66aaab4360adbf97b0febfa3"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_iron/acid_1.png"
+hash = "a47cf6818382856acc5755c10c798f235a3ab5d4ad7e0b99165bc67465ac57e0"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_iron/desktop.ini"
+hash = "b8b7073464da9637696478123539ed4c6748411c17bc70a887907bc4f384504b"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_iron/empty.png"
+hash = "9e7f082b0fc137f08205c0cbe25245f2d437be1ef46a9ddd44941417c11f480d"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_iron/icecream_1.png"
+hash = "99722ab51590db6b51adc9e15e69bfca89b84855f4efb11f9c24575c8a71220a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_iron/lava_1.emiss.png"
+hash = "94b552b19ed476f4fe21b495960cd17db92bb37fab466ad387ad2ec0f04f5fe8"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_iron/lava_1.png"
+hash = "e9318aca4ae9e3637df8831d99c59f3fe7753cdafaa4e565ec0e842ff213b68d"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_iron/milk_1.png"
+hash = "1d38b294c2043ea5b2761cd76ee2a8be999241e3f5dad468b3e666202b8f26b2"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_iron/water_1.png"
+hash = "a6ca3a1bf04cc309f6bd9ed5645df8a274a234e2870c78765d6d99ffce19b2cf"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_iron/waterboiling_1.emiss.png"
+hash = "d7c89fa5d4e2bca42f246595f80bee85425c012473e57b7c69c4b4297d67620a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_iron/waterboiling_1.png"
+hash = "27b95f51d2dbe52545db1df6e4db83d51b1639457dafb4447e2163e9c4c011c3"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/acid_1.emiss.png"
+hash = "07e3f861ed4312fa18d1d00266e734ca0b29727f99b21ee04e5a52d204ee21f3"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/acid_1.png"
+hash = "22d277cc8761308342ba8d8ab062bc9c8507abb5258b3cd8c7e727803f702c47"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/acid_2.emiss.png"
+hash = "9296aafa83a1f5397c0f5d6fdc7a78579a485d93c8403db862578e4fb918796e"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/acid_2.png"
+hash = "3d5a11bda80fb16898bef4ba948ca135e9f738a25a5c188327b5fb7b64901169"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/acid_3.emiss.png"
+hash = "decc7c22ed25283bc5ad81e2fd0fb159fc85b2d5f28282ebc3f78c1f078eab43"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/acid_3.png"
+hash = "21bc6c5db0e0568c8a9a36916a097cb6cc6713efe34270bcd9c87a305cb94fb4"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/empty.png"
+hash = "0d3fe53e23def360ee676ac668fed3ae8aa880db9c3fd7b6b5c97e31fa42202a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/icecream_1.emiss.png"
+hash = "006a920d373d842ca8ab4c251153e76bebc13ca480d41a1e702b2f6651c39033"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/icecream_1.png"
+hash = "0666817d0810533152e774b7f4586bfbfc57dec167e9a39c45efc248b1653197"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/icecream_2.emiss.png"
+hash = "8adb2498da229b8df2972a7fa132ef4036092e57dc3407c0b3d083ad4f237360"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/icecream_2.png"
+hash = "7eecab29b26cedd83aacf1f0f0299f541f81b1ad5910fb181276fc355c23f27e"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/icecream_3.emiss.png"
+hash = "5dc8a32953bab7150e7e4469682a4038a755699f87987b33533ad4d32f2b4b79"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/icecream_3.png"
+hash = "1a374c8c5645bb34c6272a16242a96cedc83a60e612b92c3bb3d4525a5e3cd71"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/lava_1.emiss.png"
+hash = "c297127d4964b0d8c5ba5e9c25d01a1fcd12fa248a47c94ec2734f556373ac71"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/lava_1.png"
+hash = "f6fe1cea0011b22206736e55c1ab07bdb8ebd082d475d8cd0d61cb38c44eaa68"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/lava_2.emiss.png"
+hash = "47be06d525eb01a00eeef86f662146e6b219da7143d7aaaaad39eb048141ec1c"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/lava_2.png"
+hash = "4cdf2fc0940e777007ef510c54d3023d123a3111b7b5f3bf116dee7c1332e570"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/lava_3.emiss.png"
+hash = "32b69922c8690b999f0867939c645715002e4775b03a653d8b6aaea1c464a76b"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/lava_3.png"
+hash = "5175bd0fc657170357818c810485cb0ec388d4d876af3fe5e8c4c46640185065"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/milk_1.png"
+hash = "e192ec799f26630ae86c81cb00be5e27b08aa4a76d4b32485157fe612f303a85"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/milk_2.png"
+hash = "1e93cb9cd9fc6e0417a609a0c6a594a71c7526e48c881170887da211a9d9e85c"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/milk_3.png"
+hash = "4aa94a66bf9667dacc7842f7a7b374ce027ca5db68190a3cd7e462e2b527c83a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/water_1.png"
+hash = "9751f5b52e4b0ca6c90ff3a70e7bfe3cbb2c47c54b59671cc546b6c95cd09980"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/water_2.png"
+hash = "e2fb24cd587342935c8de8a42a53a5936c134eb679a912e9afa701f4a2ca98c5"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/water_3.png"
+hash = "57a0842e3d0df03885f487a2a7532b12d778299865e135fbe7b5a037e0314bc4"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/waterboiling_1.emiss.png"
+hash = "b2c007470ef8e3d97ad7fcacb830b0f2b744d732d6285ec4b778a40dcceb356b"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/waterboiling_1.png"
+hash = "2d5121cfdeb20cfc09a1c02a441b81e5a8d8fadffb2051c4c8e22b9cc7293228"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/waterboiling_2.emiss.png"
+hash = "68876e5b9cbdbaa46517361a9b339d242a17f2f44f1bebd073f3999dc9ac7274"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/waterboiling_2.png"
+hash = "64eb8200c45da1f069a7fb2ac5a130a4ed0f87c0159921bdaf51b274fb4a12e7"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/waterboiling_3.emiss.png"
+hash = "886f2e023c6983ef8550bcc1079278e722706c03b85d224690f76a453a66a5dd"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_steel/waterboiling_3.png"
+hash = "3d43603f5ee9239be92cd3814778a5bc2519ec8c07e0ff013b65e4a2806e4e0b"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_apple.png"
+hash = "a9e814e9829ecec09193c4702f433036827d361f044b0ca0206293eedb978c93"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_apple_gold.png"
+hash = "92295866daeddba191f3bb4b1d868e46fea494ec4aed114d41231ae4116540c1"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_bread.emiss.png"
+hash = "289084e1b183c0dd72cd5cc65ee64bc14611ddeeb54f922f4f80a13cea2bdd64"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_bread.png"
+hash = "b10b0eb3af7447592e8b17a1a087c07b4e7ede01f735ab23078673458e2d5d12"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_cake.png"
+hash = "126e265398530bd4be4947ddf429274069c1d91cdb95627de7e5dd57b63b010e"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_cherry.emiss.png"
+hash = "f6d9fe52d303bb1b7e16ba9ff6defd965159c064b92f9d06ae22cf83555b6af3"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_cherry.png"
+hash = "f110835bd874fb6ec4a34f25ee7cdd691c9aaf5f18d62542edc98303201c3dac"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_cookie.png"
+hash = "6d16d060428157e597bc202197d636a4e3ee7e6746340242422143b1f714238c"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_fish_cooked.png"
+hash = "016b0648b0ae6bc672c3446cbf882867e856634c47844bfbca4ad9863fa80960"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_fish_raw.png"
+hash = "dde0aa42c3cb76382bb1f67bc669460afdf91f5dc3125390aaa979d3729c3f8f"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_porkchop_cooked.png"
+hash = "8003dada7f7aefa0ff8aac72a495fbf7a9aec6f7842165a7d21c0f3b480baf99"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_porkchop_raw.png"
+hash = "afea1c9a5220cb623e3740d0f39bd7d958dc7169fb7b22a329b7343497c3be8a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_pumpkin_pie.png"
+hash = "7e01f5d31e5d7b3b1941ab74a20711c5dc6ac67d3883ea4af452c005ceac4ab1"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_stew_mushroom.png"
+hash = "2d8bf77d142ba175c1f0a0295b4878977db3283bab474e0dc0ad8357b5be7584"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_venison_cooked.png"
+hash = "15f9ce4066b8d17c4c34276412560710b4aedaf3ea8a4524e1ebe067b115bb22"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/food_venison_raw.png"
+hash = "71286acbd302ca0706f311c832d88e676d5fe7f9c05232b9d8c9e457afb41346"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/handcannon_loaded.png"
+hash = "0f4888d04601fbe184ba6af02c4419786ccb0fc5ea52cd4a15755d21c945cc41"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/handcannon_unloaded.png"
+hash = "2ca1da85d17e8b911ce03f0b6c24e9b1b0e047ec8230aa804453ca3ed17f8324"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_axe_diamond.png"
+hash = "e4a2ce652684665647aa4aa91bf4edcaa2f06a4b096508f749c778c5a77cb260"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_axe_gold.png"
+hash = "b127be0680c6ab0692b9d07923c2fdf54ed83917d7987ac83a0ebe3c23abd33e"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_axe_iron.png"
+hash = "fa91e48bb86c4d8a44722e04bca0142643d3d4a8bdffd0d10aeb036b4badafb9"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_axe_steel.png"
+hash = "80bd4f7df66b12afe768e97748684ffbb027ffb47bc8eff74277e15597e626e1"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_axe_stone.png"
+hash = "ac95173801f8ef9f8292f4011edfe0b1f129d8a981ef989072643d9342d649d6"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_axe_wood.png"
+hash = "470eb7f6381a66f04f4cdb1a65fbc99f8fe46471f1f4e379c450654becf5e9bd"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_bow.png"
+hash = "c1b679d97ef9e90efe7d2c84bd6e9707f5f7c929c4f1ca23f09582845d1cfa85"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_firestriker_iron.png"
+hash = "de78861fa330c8f662005281defdbbeeb687c5af3f3bce21a8b6038f647dbb1a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_firestriker_steel.png"
+hash = "ea09ccaec0dd572d7c59d7154ae109dfaa7df876b466323c513ba80b8623682c"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_shears.png"
+hash = "ef93b5d2683e2f7cc9be1316a0f85a9a03cab4241135f551dfa341ffc9ed7af7"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_shears_steel.png"
+hash = "b4293de2fe4f254b7c27db42112c5a166fc50deec6f9541f92b12ef912b0a02e"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_shovel_diamond.png"
+hash = "b36f6e85f2ae1e1f80cc2a045f3919c73908c6e6162d4803e69ba8ed532f5e15"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_shovel_gold.png"
+hash = "e7f6273402051b1e116aab5d6fe3aed4c89f982007f8daba3345c88770832ccc"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_shovel_iron.png"
+hash = "12a804e23480fc872424b80a01f885e945b9089f2cc515d5c0c9b17ab535e67c"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_shovel_steel.png"
+hash = "f6d78f792fda174c98b05aad2dde28f34ea05c601ddefa1ce6e34f623d4ceef3"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_shovel_stone.png"
+hash = "08e613fc0309613e9addc99c24aa08a50b00d6dc5b9d8d53814252a3a2cab44f"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_shovel_wood.png"
+hash = "c64f874d7a9a5df6e5913429c2cdffb4f336b8048341abcc9f0dbe75f62af6b3"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_sword_diamond.emiss.png"
+hash = "c4d6c842f9d4f2a1af7afbcb01ed5541f65ff1f721727406683e7b5119a544c8"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_sword_diamond.png"
+hash = "f891a96e1526f815fbe5b501964bd97d2a7c5fbcf96d8deec92f75311274d5a8"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_sword_gold.emiss.png"
+hash = "093de32570c81820965116ab275b83250b5de68d66e75d66dbe39d0642defa9b"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_sword_gold.png"
+hash = "efdbe1a368cdfe7dcba241af54385d9a6ce994b1960897184e77d78ec534d896"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_sword_iron.png"
+hash = "31d6d547fbda6823fe1b223eb9b9396101409e88308f5b6740533fbc1fe0b312"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_sword_steel.emiss.png"
+hash = "55063e2e794d0698de5470638c30b3f157fc21090827b57ce600b8386dc1d838"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_sword_steel.png"
+hash = "3d468db041a55e056763e750a1a4a8ab73546031e9c2b7191efa96700a9031ba"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_sword_stone.png"
+hash = "147c62b299c2dcf573c5293e84c9559f66d0c653d9f6d2ea7644a372311f6d12"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_sword_wood.png"
+hash = "eb700a897e8fe3187122b59741b42bff3a32f4f81318effb7c2dcad01752184f"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/misc/mapbg.png"
+hash = "02905d567c18a6fee1824fa1729bb4b944984b743a32a3ecf65a9a9df8a386a2"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/particle/bobber.png"
+hash = "9b906dff729627b6ac0f84037074cc545be9348a33e2c9ded9c6f023285dfbef"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/terrain/moon.png"
+hash = "f188b20a444fe4aa0ddcca016a8832ae38c82464d12a3fe98fcde5ca7ca1c491"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/terrain/rainbow.png"
+hash = "72bc92866f47170f390cae439f1423a96f509f734f66bcd1cc993314875d41d4"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/terrain/sun.png"
+hash = "b3b61db3a7fd84a27d9be434f56067b3750958620f910d45b4ff3f52fcefd968"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/manifest.json"
+hash = "521701b1010f69c9a2bfa00ef64945f0474aba966fb5c000c8b7bcb963a32fd7"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/pack.png"
+hash = "b553de7f3db3578b6d3416cce009137db1a8ba0c97a7e5f5fc0fcebec3b0bbf0"

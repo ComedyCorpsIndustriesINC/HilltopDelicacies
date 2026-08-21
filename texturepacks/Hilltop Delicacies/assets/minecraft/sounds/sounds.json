@@ -1,0 +1,19 @@
+{
+  "random.bow": {
+    "replace": true,
+    "sounds": [
+      "random/gunshot.ogg",
+    ],
+    "subtitle": "Gun shot!"
+  },
+  "random.drr": {
+    "replace": true,
+    "sounds": [
+      "random/boolet.ogg",
+	  "random/boolet2.ogg",
+	  "random/boolet3.ogg",
+
+    ],
+    "subtitle": "Bullet zips by"
+  }
+}
