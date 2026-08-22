@@ -1,0 +1,13 @@
+name = "BTA! Additional Tooltips"
+filename = "additionaltooltips-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kjF0rquD/versions/jLXzhXxu/additionaltooltips-1.0.0.jar"
+hash-format = "sha512"
+hash = "5dc5c13ac55ff980540fe5f1c4a2e5e4d2fa868884978f084d1e5e5c0c6c8628ce71dca38d1547bb8b25a4881e87d3d6e47b339844e245a0b66f6c4cf1a6c41f"
+
+[update]
+[update.modrinth]
+mod-id = "kjF0rquD"
+version = "jLXzhXxu"

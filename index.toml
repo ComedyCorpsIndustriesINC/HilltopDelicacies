@@ -33,6 +33,31 @@ file = "languages/Hilltop Vernacular/lang_info.json"
 hash = "fa8f2a0f271cd2816ba0c3bdab5e987f14496d035db6587936be69db1a60e749"
 
 [[files]]
+file = "mods/armorhud.pw.toml"
+hash = "91dba9ff0d52e53fd254ec9e0c9c212ec955353a106299b6c346dbef97404a54"
+metafile = true
+
+[[files]]
+file = "mods/better-with-ambiance.pw.toml"
+hash = "4810161109ea7b86577bc378dfdd42045b090805d1b2ab6fa6e2049c54082a37"
+metafile = true
+
+[[files]]
+file = "mods/bta!-additional-tooltips.pw.toml"
+hash = "321fb7bd1514554cb0a83bf227f471537529ff9c9acf366a641ed0dff729574d"
+metafile = true
+
+[[files]]
+file = "mods/bta!-cloud-layers.pw.toml"
+hash = "2bb15b88f65f39e7ec67f2857d2e7e0956d94f978ff24981cef5bbfba73f3e48"
+metafile = true
+
+[[files]]
+file = "mods/edible-moss.pw.toml"
+hash = "45a7e3453d035312999432b4fd094114e1e80c7bf0db09662d856beecc26aaf1"
+metafile = true
+
+[[files]]
 file = "mods/fastboot.pw.toml"
 hash = "305a34ff97e8d5d84f78f760faa604d3ac72fe96cee5ae0615d743dd5b121eac"
 metafile = true
@@ -40,6 +65,10 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "41ef1eb6ae55e4de8af9a812df0197cc40fb7e7fe868aba67740f747bd4c343b"
+
+[[files]]
+file = "servers_new.dat"
+hash = "2b685f9bc253f67deb67ec396f6f091c02a8c9600214b459ffd1e1436373435a"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/boolet.ogg"

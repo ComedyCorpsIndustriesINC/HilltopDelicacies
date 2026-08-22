@@ -1,0 +1,8 @@
+name = "Edible_Moss"
+filename = "ediblemoss-1.1.0+8.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/camoweed/Edible-Moss-BTA/releases/download/1.1.0/ediblemoss-1.1.0+8.0.jar"
+hash-format = "sha256"
+hash = "7d1be7187a999148f8b9473195104fcc6f4899419dca377947bf929c17bbf10a"

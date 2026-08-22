@@ -1,0 +1,13 @@
+name = "BTA! Cloud Layers"
+filename = "cloudlayers-1.0.1+8.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YzPejrJV/versions/xH1urhDQ/cloudlayers-1.0.1%2B8.0.1.jar"
+hash-format = "sha512"
+hash = "a7bd85acbd954d65184556e6bac6673026965467bd4c1e40a725e63e89bd9aa76dddf12a2d94fe65e90133e8562990a0de4acb509b7293902e3fb1bc3d998d46"
+
+[update]
+[update.modrinth]
+mod-id = "YzPejrJV"
+version = "xH1urhDQ"
