@@ -1,0 +1,8 @@
+name = "Better_Emotes"
+filename = "betteremotes-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/camoweed/Better-Emotes/releases/download/1.1.1/betteremotes-1.1.1.jar"
+hash-format = "sha256"
+hash = "b33791d1601b6cc12aab0354b2838b7be454cf06b53c2c95cc878d60818e0733"

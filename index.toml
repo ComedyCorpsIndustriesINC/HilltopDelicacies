@@ -38,6 +38,11 @@ hash = "91dba9ff0d52e53fd254ec9e0c9c212ec955353a106299b6c346dbef97404a54"
 metafile = true
 
 [[files]]
+file = "mods/better-emotes.pw.toml"
+hash = "68193956a1aefdcd5f018d7f8a35a5951b780218f45599e9f9d26c492a85a73c"
+metafile = true
+
+[[files]]
 file = "mods/better-with-ambiance.pw.toml"
 hash = "4810161109ea7b86577bc378dfdd42045b090805d1b2ab6fa6e2049c54082a37"
 metafile = true
