@@ -58,6 +58,11 @@ hash = "2bb15b88f65f39e7ec67f2857d2e7e0956d94f978ff24981cef5bbfba73f3e48"
 metafile = true
 
 [[files]]
+file = "mods/btwaila.pw.toml"
+hash = "a943ac7ebe23f51808928af3106d20a466e17bb9290a1b0c73e373a3310f73b9"
+metafile = true
+
+[[files]]
 file = "mods/edible-moss.pw.toml"
 hash = "45a7e3453d035312999432b4fd094114e1e80c7bf0db09662d856beecc26aaf1"
 metafile = true
