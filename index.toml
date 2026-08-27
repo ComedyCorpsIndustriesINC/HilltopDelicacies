@@ -5,32 +5,8 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
-file = "languages/Hilltop Vernacular/desktop.ini"
-hash = "7b174dec003d417d09eb37e5a069f276f201e4fe5c893afb3e49cd9650450b7f"
-
-[[files]]
-file = "languages/Hilltop Vernacular/en_USA/info.lang"
-hash = "e65603a97bbd10ff4114638d45edbecadba01468ac9fd00bcb387a6248cc033d"
-
-[[files]]
-file = "languages/Hilltop Vernacular/en_USA/item.lang"
-hash = "37b38e52450c18704e652574c5d982da66225ce195e8795ba6694de8a0b77ef7"
-
-[[files]]
-file = "languages/Hilltop Vernacular/en_USA/strings.lang"
-hash = "3e99f895f248367500f001b56e19d5329927e9e60b08f2b9663faa73d7c2e819"
-
-[[files]]
-file = "languages/Hilltop Vernacular/en_USA/subtitles.lang"
-hash = "c4be17935a50e292dffe809fe9f2566517af08f7a9433259ced103f84b1ca296"
-
-[[files]]
-file = "languages/Hilltop Vernacular/en_USA/tile.lang"
-hash = "838da53bcb0318a0a9bff1a63acf3fe4d9be4f5b186c3d3572d0ac1b5dfa5949"
-
-[[files]]
-file = "languages/Hilltop Vernacular/lang_info.json"
-hash = "fa8f2a0f271cd2816ba0c3bdab5e987f14496d035db6587936be69db1a60e749"
+file = "languages/Hilltop Vernacular.zip"
+hash = "d9e817214385f4c320b53ada2d3957fbab845a5c8fe4a72dab5f4b2bc8f981fa"
 
 [[files]]
 file = "mods/armorhud.pw.toml"
