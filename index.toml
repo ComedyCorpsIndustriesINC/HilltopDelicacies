@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-with-ambiance.pw.toml"
-hash = "4810161109ea7b86577bc378dfdd42045b090805d1b2ab6fa6e2049c54082a37"
+hash = "69fe7389fc82f2f17adc3e4b54ebb47b8bec7ad6333796a7859164d95704a65d"
 metafile = true
 
 [[files]]
