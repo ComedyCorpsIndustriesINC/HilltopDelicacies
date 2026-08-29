@@ -1,8 +1,8 @@
 name = "Better_With_Ambiance"
-filename = "betterthanambiance-2.1.0.jar"
+filename = "betterthanambiance-2.1.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Pasithea0/better-than-ambiance/releases/download/v2.1.0/betterthanambiance-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/nllgKgDu/versions/1LkkuYGC/betterthanambiance-2.1.1.jar"
 hash-format = "sha256"
 hash = "8111dc0d2957e74802fb5e1ff5750ddadbb23be84d66d8e7f3f6666da8c6b03f"
