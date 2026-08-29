@@ -39,8 +39,8 @@ hash = "68193956a1aefdcd5f018d7f8a35a5951b780218f45599e9f9d26c492a85a73c"
 metafile = true
 
 [[files]]
-file = "mods/better-with-ambiance.pw.toml"
-hash = "d2e8405eb83d9204676db171d83d50935ac5dfb3ca5532a5e8b50ec99f8abdd0"
+file = "mods/better-than-ambiance.pw.toml"
+hash = "4bb780661a5669d4620f7db1acffb8060bc68eee828ee2dcff31314eca593ad6"
 metafile = true
 
 [[files]]

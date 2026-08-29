@@ -1,0 +1,13 @@
+name = "Better than Ambiance!"
+filename = "betterthanambiance-2.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nllgKgDu/versions/1LkkuYGC/betterthanambiance-2.1.1.jar"
+hash-format = "sha512"
+hash = "2c2d04a3505fc3f1265f9771f4d34f514eb51783645716c45f0504e9475ae7207a8c6b20acdda3f37a89b15ed029f6dc7b0385a548cd690e8eb938a3b6f9dd9f"
+
+[update]
+[update.modrinth]
+mod-id = "nllgKgDu"
+version = "1LkkuYGC"
