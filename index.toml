@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/btwaila.pw.toml"
-hash = "cd0d068f297b9ed4c22ad2d4f9d20817bbe88afcf402c68845e071c0261e1de9"
+hash = "7b811926fee9d4d5f6458a893bb9ccda1c71fba125fa8d3ced5f86d49b0dd36d"
 metafile = true
 
 [[files]]
@@ -529,6 +529,10 @@ file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/environment/sn
 hash = "36dfbee883930d286cb5ba6a4b84b225de54665a1d5e7ebd06b2424c026e8505"
 
 [[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/container/guidebook/cover.png"
+hash = "b1629c563e6b19a888e5800759c1f945714cc249211e4547415ad354f99db98b"
+
+[[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/crosshair.png"
 hash = "40550dfafe044cb985d35b1c55bfa5c7498fe8ba6688088a5de43db13592b0d6"
 
@@ -563,6 +567,10 @@ hash = "0fdaf1c5af4280e57aee8d176be4d7006fde55cc20c1cb6e574892ce95ec6285"
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/hotbar_selector3.png"
 hash = "889b2e868bbc8844f4d40a588bf22b5d8c5b5c68c5a2d87236cb74e19c49f1ec"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/title/mclogo.png"
+hash = "324236b1e265fc6446f2120dffd5ed11240dd44b7b53b51e3e16f2275aee6a8a"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/ammo_arrow.png"
