@@ -534,7 +534,91 @@ hash = "b1629c563e6b19a888e5800759c1f945714cc249211e4547415ad354f99db98b"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/crosshair.png"
-hash = "40550dfafe044cb985d35b1c55bfa5c7498fe8ba6688088a5de43db13592b0d6"
+hash = "330e08d27a125dff8e58c4628dd2f772295db4fa4b59fb6f71eb6b8d5d3387e7"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/container.png"
+hash = "02fbbcea1233d7a3ee904ca96ecead8d9c146094667f13be8527f443bf0e2f4c"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/container_blinking.png"
+hash = "f115123d7bfad109217e3a8c7254d20efe5fccc113ba04410862ebfe2a63d3d0"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/full.png"
+hash = "22be60bb78f2038ae4c639fbd07c6268059bd747174d25d2552d0349857e648d"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/full_blinking.png"
+hash = "3eb537c01ffd9539b73a573b3e49f7daefb2e21ea75b8dc7ad40b4ba51dcac96"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/half.png"
+hash = "71494caeb092d335374be80e30cb1ab82a82c3c34ee9d71bdb1a977c00fd8f1b"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/half_blinking.png"
+hash = "07870b72bfb4a0556d6112de4db3cadbbdbbeafe58f425785c5d4e7ff74f1674"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/half_blinking_flipped.png"
+hash = "b7355f51d45e6b6d0727abd3fca32939cecac9a2ec41c36cb817ecb651276316"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/half_blinking_vertical.png"
+hash = "6c2453fd2da7d21bb5d3bc379d6a073138bab87dfee729edc7a9dc44adfcc38c"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/half_blinking_vertical_flipped.png"
+hash = "c495c04f180daf3bcf7b75dca0a0f82bb6e88db038807923ef6761e2901ac282"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/half_flipped.png"
+hash = "cb452dc2631c458701a708fc2835c1d73a15da22cb0757cacf3a6ab238da2c37"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/half_vertical.png"
+hash = "55a11bc1810ef913988054b2554a1a766417741a78a341a95d51f3e845b99dea"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/half_vertical_flipped.png"
+hash = "cdd6290f2005617d36cbe2989269e767d06f8c048f2505e2e6b6a2b146eca9f7"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/preview/full.png"
+hash = "448eb24b0e82af6cc671b44dddb92fd34db3d327e3d3cc81f890ade8582f4380"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/preview/half.png"
+hash = "3e6807f9c214dee917ae9e0a5219b92fc2c10aea1eea4eb61358177b77f82221"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/preview/half_flipped.png"
+hash = "541a2d2cc38594ea84d5f30ff64cae55bd9598c7fbc80a4d68f7dd9e41f94d61"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/preview/half_right.png"
+hash = "de4b00e5e095305f7cc47d6890ea3d45798083a8c2480a217d655c0824c85739"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/preview/half_right_flipped.png"
+hash = "53635fe05e93752dcc7f582aa1d49e19a764dbb2a45affae8992273549be1b93"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/preview/half_right_vertical.png"
+hash = "e2b17d5f791f10f27cf26d2fcc667610f54bfb47b8984c70f478358b99e8ce2d"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/preview/half_right_vertical_flipped.png"
+hash = "a28781521e7364ade7ce15bc9b8f6eace0cec7c96d921db4ce84fe6f61750b7a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/preview/half_vertical.png"
+hash = "5bdf4e9ea628359d289e6377aaae5a6b9f187ca32c20854aecefba55bf470a0f"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/heart/survival/preview/half_vertical_flipped.png"
+hash = "f13ac82806ca737bb4576467faf7e62083bcb24439828d21c8d4dc1216a18035"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/hotbar.png"
@@ -550,27 +634,35 @@ hash = "92ed2947793de2de26e48cb549fde70fcb7ecf3802d3d339ff3b810b9d2c4680"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/hotbar_selector.png"
-hash = "3f793f0e1be1b45477d5c1c4851c8e0b673bd156cdd36768113fba03b2106b85"
+hash = "db4ccb8fd0c4f768a0da9e8e6cd663381b75d425d3893b8d6b55d393025a8311"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/hotbar_selector0.png"
-hash = "3210f789ce5a74a1319de21116e8df0380df413a883c4db30ce33e33c0ae95e8"
+hash = "9011513938446407fe11a94103f70c0a72516b98ad95656e6f3102080a261b29"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/hotbar_selector1.png"
-hash = "af93b3b95aaa8d315b48f804d800959e8f5a11955ced7c00dce8b4326807aa10"
+hash = "8830abc0c85390e2a74c2a81719e4790f624179d237b3a778bbf2e4d3d9c5473"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/hotbar_selector2.png"
-hash = "0fdaf1c5af4280e57aee8d176be4d7006fde55cc20c1cb6e574892ce95ec6285"
+hash = "1747472c720008f3bf876ddabe30e09e806a2f41a37973d4588ca91a8aecd2f1"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/hotbar_selector3.png"
-hash = "889b2e868bbc8844f4d40a588bf22b5d8c5b5c68c5a2d87236cb74e19c49f1ec"
+hash = "97532f51888a59d6851b25b2e2f86c6a99352c23f87f9c8228dcc4798e35cf76"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/title/majonk.png"
+hash = "a144dc8e796182778bfc58b42e9a8691829bad6b3a7bd241c4c3ce056f7a09e3"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/title/mclogo.png"
 hash = "324236b1e265fc6446f2120dffd5ed11240dd44b7b53b51e3e16f2275aee6a8a"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/title/mojang.png"
+hash = "f74d723294981f69457e9a7fd4fea479e8726012e5087731194946935bfc2c07"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/ammo_arrow.png"
