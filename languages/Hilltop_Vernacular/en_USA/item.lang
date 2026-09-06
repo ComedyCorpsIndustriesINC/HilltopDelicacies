@@ -114,8 +114,8 @@ item.armor.boots.leather.name=Old Sneakers
 item.armor.boots.leather.desc=Old reliable!
 item.armor.helmet.chainmail.name=Ronald's Duds
 item.armor.helmet.chainmail.desc=Some of the big cheese's casualwear.
-item.armor.chestplate.chainmail.name=McDonalds Battle Polo
-item.armor.chestplate.chainmail.desc=Special McDonalds vest for protection.
+item.armor.chestplate.chainmail.name=McDonald's Battle Polo
+item.armor.chestplate.chainmail.desc=Special McDonald's vest for protection.
 item.armor.leggings.chainmail.name=Black Jeans
 item.armor.leggings.chainmail.desc=Just a usual pair of black jeans. Perfect for employment!
 item.armor.boots.chainmail.name=Non-Slip Shoes
@@ -374,7 +374,7 @@ item.bucket.iron.name=Empty McDonald's Soft Drink Cup
 item.bucket.iron.desc=Used to hold various soft drinks.
 item.bucket.iron.water.name=McDonald's Water Cup
 item.bucket.iron.water.desc=A cup full of H2O.
-item.bucket.iron.lava.name=McDonald's Sprite
+item.bucket.iron.lava.name=McDonald's Lava Cup
 item.bucket.iron.lava.desc=A cup full of a fresh, bubbling liquid. Goes down hard.
 item.bucket.iron.milk.name=McDonald's Coca-Cola
 item.bucket.iron.milk.desc=I'm Lovin' It!
@@ -574,8 +574,8 @@ item.sulfur.name=Sulfur
 item.sulfur.desc=A pungent, flammable powder sourced from acidic pools.
 
 item.bucket.iron.acid.name=McDonald's Bathroom Drain Cleaner Cup
-item.bucket.iron.acid.desc=Sourced from the janitorial closet.
+item.bucket.iron.acid.desc=Sourced from the janitorial closet. Probably don't drink this..
 
-item.bucket.steel.acid.name=Collectible McDonald's Shrek the Third Water Cup
+item.bucket.steel.acid.name=Collectible McDonald's Shrek the Third Drain Cleaner Cup
 item.bucket.steel.acid.desc=A limited edition Shrek the Third collectible drinking glass full of acid. Do NOT drink this.
 

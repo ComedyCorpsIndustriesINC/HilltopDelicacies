@@ -10,7 +10,7 @@ hash = "e65603a97bbd10ff4114638d45edbecadba01468ac9fd00bcb387a6248cc033d"
 
 [[files]]
 file = "languages/Hilltop_Vernacular/en_USA/item.lang"
-hash = "37b38e52450c18704e652574c5d982da66225ce195e8795ba6694de8a0b77ef7"
+hash = "6059aa74d447d75265481141d3ff6d075c102c3db34fad00f7a5e6812fe791d4"
 
 [[files]]
 file = "languages/Hilltop_Vernacular/en_USA/strings.lang"
@@ -842,7 +842,7 @@ hash = "94b552b19ed476f4fe21b495960cd17db92bb37fab466ad387ad2ec0f04f5fe8"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_iron/lava_1.png"
-hash = "e9318aca4ae9e3637df8831d99c59f3fe7753cdafaa4e565ec0e842ff213b68d"
+hash = "7eca9bf480cd42a06c0613efb6c0e9b270c604f577a06de9809c13c148866679"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_iron/milk_1.png"
@@ -850,7 +850,7 @@ hash = "1d38b294c2043ea5b2761cd76ee2a8be999241e3f5dad468b3e666202b8f26b2"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_iron/water_1.png"
-hash = "a6ca3a1bf04cc309f6bd9ed5645df8a274a234e2870c78765d6d99ffce19b2cf"
+hash = "1ed291d16af952e8f9163ae158979aab0dd81d701349a0a34fca90f5d69b303c"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/bucket_iron/waterboiling_1.emiss.png"
