@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "41ef1eb6ae55e4de8af9a812df0197cc40fb7e7fe868aba67740f747bd4c343b"
+hash = "cb6c1bba75f657594a3ff2e42dc35f064c3ddb626ef6b577c8a067bab4cc7eee"
 
 [[files]]
 file = "servers_new.dat"
@@ -531,6 +531,58 @@ hash = "36dfbee883930d286cb5ba6a4b84b225de54665a1d5e7ebd06b2424c026e8505"
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/container/guidebook/cover.png"
 hash = "b1629c563e6b19a888e5800759c1f945714cc249211e4547415ad354f99db98b"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_00.png"
+hash = "65220a063a246291235bf48cfee2ff333a96b0176238a98ed733db809dde8449"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_01.png"
+hash = "c19a1b30dad671b7e14d2dc65ac7d0a9a5ccc61a9f1f75fd1f2e49f0d16c1747"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_02.png"
+hash = "575d01e01417d090f62953751d920f06735993b6ee5aa57326e6a97a592b7cee"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_03.png"
+hash = "d7ef47a391650f082a633aa2b66dc33ee31c054846af6016d9ffe9625c1e2acf"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_04.png"
+hash = "f84fa8debc1ccc63a262009ba3715fb17459a41fcabe8b1d24e183e26821dabc"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_05.png"
+hash = "90091049b3d1a1c0aa0ac719cf2d0ee09cc8851b612f295b600fa8a408a7c671"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_06.png"
+hash = "8c638a181ce7cafd06a56bc7645d519948b1d7129542e49e070537e0f7ba28e3"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_07.png"
+hash = "2941ec344051a6b8962b886f3b8a9e465a7cb375795d7ed3b5200f5e44923c37"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_08.png"
+hash = "407e0b82eadc325379ac9d0e3e13d39ae6b247f5544e97d1b710a4f527277af2"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_09.png"
+hash = "de8fe373afb9b8bcd48e43f68551cc7493b8010849a227723bf62a2f89951614"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_0A.png"
+hash = "e2997a731e2dd4964b796595336cecbaa9d9cc0dd2b76bf284a04061862bef1d"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_0B.png"
+hash = "3451a808d496236afb119aebae5636beeab8258954762e8703ab46955985c66c"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/glyph_sizes.bin"
+hash = "2b0e7bd9c8d2bd15c3cc2f3c12c2fb731353a6a97b41a8875a737b96e133f300"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/crosshair.png"
@@ -1186,4 +1238,36 @@ hash = "521701b1010f69c9a2bfa00ef64945f0474aba966fb5c000c8b7bcb963a32fd7"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/pack.png"
+hash = "b553de7f3db3578b6d3416cce009137db1a8ba0c97a7e5f5fc0fcebec3b0bbf0"
+
+[[files]]
+file = "texturepacks/Hilltop Photography/bg/backgrounds.json"
+hash = "d3d56e793cc59ba2015430dbfed1bcd5451858490ec8b49d4c73ba570f7f0521"
+
+[[files]]
+file = "texturepacks/Hilltop Photography/bg/farm.png"
+hash = "6d7393fdc5cd2299fb2dcf834aa765ce10f987223d7a2f5b4798c7fd4955fbbb"
+
+[[files]]
+file = "texturepacks/Hilltop Photography/bg/homercastle.png"
+hash = "5d12b35cb616320fc93f579ed9bf7fe499a65a4bc32bb1deebe6d475add7f5c3"
+
+[[files]]
+file = "texturepacks/Hilltop Photography/bg/map.png"
+hash = "0aeb42ac744be589f4643874504f97434d1e2f9225f36405763b7b1a92ae818b"
+
+[[files]]
+file = "texturepacks/Hilltop Photography/bg/overview.png"
+hash = "58aea3b4866079c7679de27c85c4305681b05e57e5fa50397dfabe471cad8617"
+
+[[files]]
+file = "texturepacks/Hilltop Photography/bg/overview2.png"
+hash = "ee1fe6b81d77cda10c0ffb4ea07671f456258b5bd29953bf88aeb663060d05b0"
+
+[[files]]
+file = "texturepacks/Hilltop Photography/manifest.json"
+hash = "97cf1816708f1bbe913e48c554e02d39a496a7394bce896c5f5bd2af7a38ebad"
+
+[[files]]
+file = "texturepacks/Hilltop Photography/pack.png"
 hash = "b553de7f3db3578b6d3416cce009137db1a8ba0c97a7e5f5fc0fcebec3b0bbf0"

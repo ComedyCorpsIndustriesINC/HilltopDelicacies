@@ -235,7 +235,7 @@ showDebugScreen:false
 showFrameTimes:false
 showItemDebugInfo:false
 showPlayerList:false
-skin:Hilltop Delicacies<-=-=->
+skin:Hilltop Delicacies<-=-=->Hilltop Photography<-=-=->
 slimeParticles:true
 smoothCamera:false
 sneakToggle:false

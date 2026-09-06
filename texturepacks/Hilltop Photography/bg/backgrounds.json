@@ -1,0 +1,10 @@
+{
+	"replace": true,
+	"backgrounds": [
+		"map",
+		"farm",
+		"homercastle",
+		"overview",
+		"overview2",
+	]
+}
