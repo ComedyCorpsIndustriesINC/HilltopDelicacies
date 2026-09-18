@@ -77,10 +77,6 @@ file = "servers_new.dat"
 hash = "2b685f9bc253f67deb67ec396f6f091c02a8c9600214b459ffd1e1436373435a"
 
 [[files]]
-file = "texturepacks/Hilltop Delicacies/Hilltop Delicacies.zip"
-hash = "121dbf92069203eda2e91b25eb34ddc504f950cae12884cf2cd8e9be3f36d514"
-
-[[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/boolet.ogg"
 hash = "0febda1c6193622456a4cd2d8c9ce803ed1a66ba36f1107c6723aea0b13e490e"
 
