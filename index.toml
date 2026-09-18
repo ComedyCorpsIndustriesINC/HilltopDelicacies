@@ -70,11 +70,11 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "cb6c1bba75f657594a3ff2e42dc35f064c3ddb626ef6b577c8a067bab4cc7eee"
+hash = "a31865e1765e3d9e3f69fbd5b435205012d5d75b62528668406d8319ebb253c7"
 
 [[files]]
 file = "servers_new.dat"
-hash = "2b685f9bc253f67deb67ec396f6f091c02a8c9600214b459ffd1e1436373435a"
+hash = "7b68ef0919164a6353a5b8275fc4080f04c910d2b77eefc1ac86c067e0d9d64d"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/boolet.ogg"
