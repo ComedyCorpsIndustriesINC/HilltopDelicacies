@@ -77,6 +77,10 @@ file = "servers_new.dat"
 hash = "2b685f9bc253f67deb67ec396f6f091c02a8c9600214b459ffd1e1436373435a"
 
 [[files]]
+file = "texturepacks/Hilltop Delicacies/Hilltop Delicacies.zip"
+hash = "121dbf92069203eda2e91b25eb34ddc504f950cae12884cf2cd8e9be3f36d514"
+
+[[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/boolet.ogg"
 hash = "0febda1c6193622456a4cd2d8c9ce803ed1a66ba36f1107c6723aea0b13e490e"
 
@@ -342,7 +346,7 @@ hash = "e7c451417803ff1352fc1a0f7c188f5f28151cf3a719562ea214bc6a3abbc0d3"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/mushroom_brown.emiss.png"
-hash = "97c471b89e3f401cb52ab75f23ffae4ea08fb078a9efc644b1983b808c742f4a"
+hash = "e05b90e9ecd95c772cc68b73ab728ee28b6e3726f9f69d03f90a996246ae8f0d"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/mushroom_brown.png"
@@ -350,7 +354,7 @@ hash = "a7cbf2af2e2a25bf36a19c8d98b6a05d276f88b5d4cce447179e016120813306"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/mushroom_red.emiss.png"
-hash = "0b1438350ed92485035e28143c6b3eb4ebd49fd1c31f1629e458cda7d6e38978"
+hash = "fde3041e857859686206fde866c36881e401505f90f0b1875df975a7cea96462"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/block/mushroom_red.png"
@@ -534,7 +538,7 @@ hash = "b1629c563e6b19a888e5800759c1f945714cc249211e4547415ad354f99db98b"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_00.png"
-hash = "e6584edfc90f87be58efcbeac1c283f2f99442fe5c458c34a12c41935c3a2ba2"
+hash = "dc1eb69deb0242bcb1b6ec8cae8905e1723f5c0aeab6a378471197a04fa3cd6d"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_01.png"
