@@ -10,7 +10,7 @@ hash = "e65603a97bbd10ff4114638d45edbecadba01468ac9fd00bcb387a6248cc033d"
 
 [[files]]
 file = "languages/Hilltop_Vernacular/en_USA/item.lang"
-hash = "6059aa74d447d75265481141d3ff6d075c102c3db34fad00f7a5e6812fe791d4"
+hash = "4af2adf25ccb4b9b614ad789b97921a2b0eaf4bb61e9f665f677cd807fee018e"
 
 [[files]]
 file = "languages/Hilltop_Vernacular/en_USA/strings.lang"
@@ -1109,6 +1109,18 @@ file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/handcanno
 hash = "2ca1da85d17e8b911ce03f0b6c24e9b1b0e047ec8230aa804453ca3ed17f8324"
 
 [[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/map.emiss.png"
+hash = "e444e52b42b902f31d4b52a646531569a5a04a50342f2b1533e7db030fcbf611"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/map.png"
+hash = "ba24d64766367b4d96015a60661923d33b36c7504139824b1cea9664af06098f"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/map_blank.png"
+hash = "d0cd48f35708e5cfe8dd5186e72f0b5421297d3728f63bf868808ecb505a157c"
+
+[[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_axe_diamond.png"
 hash = "e4a2ce652684665647aa4aa91bf4edcaa2f06a4b096508f749c778c5a77cb260"
 
@@ -1210,7 +1222,7 @@ hash = "147c62b299c2dcf573c5293e84c9559f66d0c653d9f6d2ea7644a372311f6d12"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_sword_wood.png"
-hash = "eb700a897e8fe3187122b59741b42bff3a32f4f81318effb7c2dcad01752184f"
+hash = "852e0fb29d0c5dfa134888c1ca1052c674a4400fbb967dee66d0f074e0caa279"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/misc/mapbg.png"
