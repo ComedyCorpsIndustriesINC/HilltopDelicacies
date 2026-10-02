@@ -1225,8 +1225,16 @@ file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_swor
 hash = "852e0fb29d0c5dfa134888c1ca1052c674a4400fbb967dee66d0f074e0caa279"
 
 [[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/misc/colors_flag.png"
+hash = "0b5e1085f672dbaf3801f0fccb44c3bc43faa180b3705a133f6ae288f250da90"
+
+[[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/misc/mapbg.png"
-hash = "02905d567c18a6fee1824fa1729bb4b944984b743a32a3ecf65a9a9df8a386a2"
+hash = "ecaafc4b0ff5e8390558196d4b7ee288e253681cc79f2250e5844ac24c592896"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/misc/mapicons.png"
+hash = "c18330fd025b50cb13d2d0f762c6261baa24b56dfdbc22c6669031254ea0cc07"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/particle/bobber.png"
