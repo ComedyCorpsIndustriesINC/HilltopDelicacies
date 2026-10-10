@@ -15,5 +15,17 @@
 
     ],
     "subtitle": "Bullet zips by"
+  },
+    "ambient.cave.cave": {
+    "replace": false,
+    "sounds": [
+      "random/cavewan.ogg",
+	  "random/caveseban.ogg",
+	  "random/cavetree.ogg",
+	  "random/treesicks.ogg",
+	  "random/treefaf.ogg",
+	  "random/treefo.ogg",
+    ],
+    "subtitle": "Herobrine makes a move..."
   }
 }

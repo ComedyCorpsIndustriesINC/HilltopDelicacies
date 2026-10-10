@@ -10,7 +10,7 @@ hash = "e65603a97bbd10ff4114638d45edbecadba01468ac9fd00bcb387a6248cc033d"
 
 [[files]]
 file = "languages/Hilltop_Vernacular/en_USA/item.lang"
-hash = "4af2adf25ccb4b9b614ad789b97921a2b0eaf4bb61e9f665f677cd807fee018e"
+hash = "9f4ce5af0da2f090bba05346ba81807daeb54a1ba6f4af9a0bf88c4b14229878"
 
 [[files]]
 file = "languages/Hilltop_Vernacular/en_USA/strings.lang"
@@ -70,11 +70,19 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a31865e1765e3d9e3f69fbd5b435205012d5d75b62528668406d8319ebb253c7"
+hash = "3f0dd2e72ecf9c122d9634da07de531928766ed3f6e57bc32b1b73ea19bf97cd"
 
 [[files]]
 file = "servers_new.dat"
 hash = "229fee2269be1b6556a205ad5605dae4db897bd60bcf0df5c32c919b47ca5169"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/models/entity/fih.geo.json"
+hash = "a4cb54ee0873e954531eb92d72c70ce68f3876121f866ca63f3605b9ed793dc7"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/models/entity/models.json"
+hash = "1c3e0bdf9ed3696416e623680aa6c9b84786f277c74a0da5d8aeddc2db748396"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/boolet.ogg"
@@ -89,12 +97,36 @@ file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/boolet3.o
 hash = "db9e84a560f0cc40af6c6cd8fd1c593f812ff0aa0a13acdb6efc3e4418aaac4f"
 
 [[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/caveseban.ogg"
+hash = "14dbbf1b88904ec65e6b21174156fa26ace26df1124f13efb0de3ebbaf7d32a9"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/cavetree.ogg"
+hash = "59aa1002824ad9448fdc6d3a4bd092e6fee3a09136dffa7241b55c2557c9abfb"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/cavewan.ogg"
+hash = "e4f9cf2a09e516758c49d07b68703696a8d3bf7bff4540a7747cad6c44838e7c"
+
+[[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/gunshot.ogg"
-hash = "dd26a4d3d8dfa9161606f49d7b75a7ee3c6e88854de49361b80a253a35a2d42e"
+hash = "f33c81f7ca3469e81d2b0a8be4c2fa4626646ea7e802e39e198d4feac5bf1822"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/treefaf.ogg"
+hash = "7bee33556ea3fa79bc5b7f218f7a3d633d1f4b305a7011babc5027f1cd86e0c1"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/treefo.ogg"
+hash = "82b913b83d5957f30a8e3290d3a9180f7e9f4e61172e4044e0c061d2ccc02540"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/treesicks.ogg"
+hash = "f4dc2651ea4afb235d11ea6d49707cd2290c456262e07b8836bfc6e694c411fa"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/sounds.json"
-hash = "02e0551c74bce939d6565b66222e2dfedc3850bff4060877da594fdda6eb81e2"
+hash = "358357902edec3d721f5d79482faa6c63fb0691e801bb007fa214f17244e818b"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/chain_1.png"
@@ -534,7 +566,7 @@ hash = "b1629c563e6b19a888e5800759c1f945714cc249211e4547415ad354f99db98b"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_00.png"
-hash = "dc1eb69deb0242bcb1b6ec8cae8905e1723f5c0aeab6a378471197a04fa3cd6d"
+hash = "49ffe0fc660ed62c01dfe9c10ec79cf71512ea303373c9aaae84ad765208ece9"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_01.png"
@@ -1110,15 +1142,15 @@ hash = "2ca1da85d17e8b911ce03f0b6c24e9b1b0e047ec8230aa804453ca3ed17f8324"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/map.emiss.png"
-hash = "e444e52b42b902f31d4b52a646531569a5a04a50342f2b1533e7db030fcbf611"
+hash = "958ab959a7acdf04b7bc6f38652ad8c0e44d5be627c530bcdf8dbfc18b68b7c8"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/map.png"
-hash = "ba24d64766367b4d96015a60661923d33b36c7504139824b1cea9664af06098f"
+hash = "90da51cdd705b2121df3b881c8de326c801563d952582a1991b09589f8cf29ca"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/map_blank.png"
-hash = "d0cd48f35708e5cfe8dd5186e72f0b5421297d3728f63bf868808ecb505a157c"
+hash = "157b169fd4ca86852d1a9228ffe9eb1fe647cbae9beb3602b66fc43a0b81594e"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_axe_diamond.png"
@@ -1150,7 +1182,7 @@ hash = "c1b679d97ef9e90efe7d2c84bd6e9707f5f7c929c4f1ca23f09582845d1cfa85"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_firestriker_iron.png"
-hash = "de78861fa330c8f662005281defdbbeeb687c5af3f3bce21a8b6038f647dbb1a"
+hash = "ce96b1b7c2148779d01223ae1fdf61a7d430f7c340c3fc94dda1a12ebf72ade1"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_firestriker_steel.png"
@@ -1214,7 +1246,7 @@ hash = "55063e2e794d0698de5470638c30b3f157fc21090827b57ce600b8386dc1d838"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_sword_steel.png"
-hash = "3d468db041a55e056763e750a1a4a8ab73546031e9c2b7191efa96700a9031ba"
+hash = "3425888fa5303bbccb298fae1bff47753101527c7afb16649ccb1af104ed3c68"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/item/tool_sword_stone.png"
@@ -1230,7 +1262,7 @@ hash = "0b5e1085f672dbaf3801f0fccb44c3bc43faa180b3705a133f6ae288f250da90"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/misc/mapbg.png"
-hash = "ecaafc4b0ff5e8390558196d4b7ee288e253681cc79f2250e5844ac24c592896"
+hash = "785112dde5c7fb7c4ab7b7155c6a4302a8ab49415bb0008e358e3c673b584b15"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/misc/mapicons.png"
@@ -1253,41 +1285,33 @@ file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/terrain/sun.pn
 hash = "b3b61db3a7fd84a27d9be434f56067b3750958620f910d45b4ff3f52fcefd968"
 
 [[files]]
+file = "texturepacks/Hilltop Delicacies/bg/backgrounds.json"
+hash = "d3d56e793cc59ba2015430dbfed1bcd5451858490ec8b49d4c73ba570f7f0521"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/bg/farm.png"
+hash = "6d7393fdc5cd2299fb2dcf834aa765ce10f987223d7a2f5b4798c7fd4955fbbb"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/bg/homercastle.png"
+hash = "5d12b35cb616320fc93f579ed9bf7fe499a65a4bc32bb1deebe6d475add7f5c3"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/bg/map.png"
+hash = "0aeb42ac744be589f4643874504f97434d1e2f9225f36405763b7b1a92ae818b"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/bg/overview.png"
+hash = "58aea3b4866079c7679de27c85c4305681b05e57e5fa50397dfabe471cad8617"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/bg/overview2.png"
+hash = "ee1fe6b81d77cda10c0ffb4ea07671f456258b5bd29953bf88aeb663060d05b0"
+
+[[files]]
 file = "texturepacks/Hilltop Delicacies/manifest.json"
 hash = "521701b1010f69c9a2bfa00ef64945f0474aba966fb5c000c8b7bcb963a32fd7"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/pack.png"
-hash = "b553de7f3db3578b6d3416cce009137db1a8ba0c97a7e5f5fc0fcebec3b0bbf0"
-
-[[files]]
-file = "texturepacks/Hilltop Photography/bg/backgrounds.json"
-hash = "d3d56e793cc59ba2015430dbfed1bcd5451858490ec8b49d4c73ba570f7f0521"
-
-[[files]]
-file = "texturepacks/Hilltop Photography/bg/farm.png"
-hash = "6d7393fdc5cd2299fb2dcf834aa765ce10f987223d7a2f5b4798c7fd4955fbbb"
-
-[[files]]
-file = "texturepacks/Hilltop Photography/bg/homercastle.png"
-hash = "5d12b35cb616320fc93f579ed9bf7fe499a65a4bc32bb1deebe6d475add7f5c3"
-
-[[files]]
-file = "texturepacks/Hilltop Photography/bg/map.png"
-hash = "0aeb42ac744be589f4643874504f97434d1e2f9225f36405763b7b1a92ae818b"
-
-[[files]]
-file = "texturepacks/Hilltop Photography/bg/overview.png"
-hash = "58aea3b4866079c7679de27c85c4305681b05e57e5fa50397dfabe471cad8617"
-
-[[files]]
-file = "texturepacks/Hilltop Photography/bg/overview2.png"
-hash = "ee1fe6b81d77cda10c0ffb4ea07671f456258b5bd29953bf88aeb663060d05b0"
-
-[[files]]
-file = "texturepacks/Hilltop Photography/manifest.json"
-hash = "97cf1816708f1bbe913e48c554e02d39a496a7394bce896c5f5bd2af7a38ebad"
-
-[[files]]
-file = "texturepacks/Hilltop Photography/pack.png"
 hash = "b553de7f3db3578b6d3416cce009137db1a8ba0c97a7e5f5fc0fcebec3b0bbf0"

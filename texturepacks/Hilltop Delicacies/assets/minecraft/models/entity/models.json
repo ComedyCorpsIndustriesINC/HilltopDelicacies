@@ -1,0 +1,10 @@
+{
+    "model_paths": [
+	"/assets/minecraft/models/entity/fih.geo.json"
+    ],
+    "custom_player_models": {
+        "ffe23333-5dba-492b-a87c-ef8789a365ca": {
+            "main": "geometry.player.base._mellll"            
+        }
+    }
+}

@@ -296,7 +296,7 @@ showNonSwordDamage:true
 showPlayerList:false
 showToolDamage:ON_SHOW_DESCRIPTION
 showToolMiningEfficiency:ON_SHOW_DESCRIPTION
-skin:Hilltop Photography<-=-=->Hilltop Delicacies<-=-=->
+skin:Hilltop Delicacies<-=-=->
 slimeParticles:true
 smallHealthBar:1
 smoothCamera:false
