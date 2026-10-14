@@ -77,12 +77,28 @@ file = "servers_new.dat"
 hash = "229fee2269be1b6556a205ad5605dae4db897bd60bcf0df5c32c919b47ca5169"
 
 [[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/models/entity/ari.geo.json"
+hash = "b96866f27cddcea5f66900bcd6283cea906f54c834c50d651388a07eea12f637"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/models/entity/comedy.geo.json"
+hash = "9027bb1b39b0b89a6b43ee30dd5c192aeae5796e941f4aaa69b61d2d393a9a19"
+
+[[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/models/entity/fih.geo.json"
 hash = "a4cb54ee0873e954531eb92d72c70ce68f3876121f866ca63f3605b9ed793dc7"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/models/entity/models.json"
-hash = "1c3e0bdf9ed3696416e623680aa6c9b84786f277c74a0da5d8aeddc2db748396"
+hash = "7e92ea7ac81d7943f0c8141f309487dd7cda1edf2741466233954a24bdc50edb"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/music/Hell Ballad.ogg"
+hash = "7315d68487aba6914edc3e36dd661e382a76ca5636b3e5d1f938ca024f4b61b7"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/music/White Flame.ogg"
+hash = "4d5c3e489b762cf1ebda133f35aa83b86897d762810c5f0746dde3740d0fcfe8"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/random/boolet.ogg"
@@ -126,7 +142,7 @@ hash = "f4dc2651ea4afb235d11ea6d49707cd2290c456262e07b8836bfc6e694c411fa"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/sounds.json"
-hash = "358357902edec3d721f5d79482faa6c63fb0691e801bb007fa214f17244e818b"
+hash = "54a83ade28403d65fc1056951914f7abfabebe452b9dd2faa1c1b2b8555b93b6"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/chain_1.png"
@@ -563,58 +579,6 @@ hash = "36dfbee883930d286cb5ba6a4b84b225de54665a1d5e7ebd06b2424c026e8505"
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/container/guidebook/cover.png"
 hash = "b1629c563e6b19a888e5800759c1f945714cc249211e4547415ad354f99db98b"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_00.png"
-hash = "49ffe0fc660ed62c01dfe9c10ec79cf71512ea303373c9aaae84ad765208ece9"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_01.png"
-hash = "c19a1b30dad671b7e14d2dc65ac7d0a9a5ccc61a9f1f75fd1f2e49f0d16c1747"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_02.png"
-hash = "575d01e01417d090f62953751d920f06735993b6ee5aa57326e6a97a592b7cee"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_03.png"
-hash = "d7ef47a391650f082a633aa2b66dc33ee31c054846af6016d9ffe9625c1e2acf"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_04.png"
-hash = "f84fa8debc1ccc63a262009ba3715fb17459a41fcabe8b1d24e183e26821dabc"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_05.png"
-hash = "90091049b3d1a1c0aa0ac719cf2d0ee09cc8851b612f295b600fa8a408a7c671"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_06.png"
-hash = "8c638a181ce7cafd06a56bc7645d519948b1d7129542e49e070537e0f7ba28e3"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_07.png"
-hash = "2941ec344051a6b8962b886f3b8a9e465a7cb375795d7ed3b5200f5e44923c37"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_08.png"
-hash = "407e0b82eadc325379ac9d0e3e13d39ae6b247f5544e97d1b710a4f527277af2"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_09.png"
-hash = "de8fe373afb9b8bcd48e43f68551cc7493b8010849a227723bf62a2f89951614"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_0A.png"
-hash = "e2997a731e2dd4964b796595336cecbaa9d9cc0dd2b76bf284a04061862bef1d"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/font_0B.png"
-hash = "3451a808d496236afb119aebae5636beeab8258954762e8703ab46955985c66c"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/font/default/glyph_sizes.bin"
-hash = "2b0e7bd9c8d2bd15c3cc2f3c12c2fb731353a6a97b41a8875a737b96e133f300"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/gui/sprites/hud/crosshair.png"

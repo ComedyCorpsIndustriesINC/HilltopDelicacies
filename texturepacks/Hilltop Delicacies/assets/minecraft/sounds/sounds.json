@@ -1,4 +1,21 @@
 {
+  "music.bta.nether": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "music/Hell Ballad.ogg",
+		"title": "Hell Ballad",
+		"author": "Mel Fishy",
+        "stream": true
+      },
+	  {
+        "name": "music/White Flame.ogg",
+		"title": "White Flame",
+		"author": "Mel Fishy",
+        "stream": true
+      }
+	]
+  },
   "random.bow": {
     "replace": true,
     "sounds": [
