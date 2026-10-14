@@ -1279,3 +1279,63 @@ hash = "521701b1010f69c9a2bfa00ef64945f0474aba966fb5c000c8b7bcb963a32fd7"
 [[files]]
 file = "texturepacks/Hilltop Delicacies/pack.png"
 hash = "b553de7f3db3578b6d3416cce009137db1a8ba0c97a7e5f5fc0fcebec3b0bbf0"
+
+[[files]]
+file = "texturepacks/SF Pro Rounded/assets/minecraft/textures/gui/font/default/font_00.png"
+hash = "49ffe0fc660ed62c01dfe9c10ec79cf71512ea303373c9aaae84ad765208ece9"
+
+[[files]]
+file = "texturepacks/SF Pro Rounded/assets/minecraft/textures/gui/font/default/font_01.png"
+hash = "c19a1b30dad671b7e14d2dc65ac7d0a9a5ccc61a9f1f75fd1f2e49f0d16c1747"
+
+[[files]]
+file = "texturepacks/SF Pro Rounded/assets/minecraft/textures/gui/font/default/font_02.png"
+hash = "575d01e01417d090f62953751d920f06735993b6ee5aa57326e6a97a592b7cee"
+
+[[files]]
+file = "texturepacks/SF Pro Rounded/assets/minecraft/textures/gui/font/default/font_03.png"
+hash = "d7ef47a391650f082a633aa2b66dc33ee31c054846af6016d9ffe9625c1e2acf"
+
+[[files]]
+file = "texturepacks/SF Pro Rounded/assets/minecraft/textures/gui/font/default/font_04.png"
+hash = "f84fa8debc1ccc63a262009ba3715fb17459a41fcabe8b1d24e183e26821dabc"
+
+[[files]]
+file = "texturepacks/SF Pro Rounded/assets/minecraft/textures/gui/font/default/font_05.png"
+hash = "90091049b3d1a1c0aa0ac719cf2d0ee09cc8851b612f295b600fa8a408a7c671"
+
+[[files]]
+file = "texturepacks/SF Pro Rounded/assets/minecraft/textures/gui/font/default/font_06.png"
+hash = "8c638a181ce7cafd06a56bc7645d519948b1d7129542e49e070537e0f7ba28e3"
+
+[[files]]
+file = "texturepacks/SF Pro Rounded/assets/minecraft/textures/gui/font/default/font_07.png"
+hash = "2941ec344051a6b8962b886f3b8a9e465a7cb375795d7ed3b5200f5e44923c37"
+
+[[files]]
+file = "texturepacks/SF Pro Rounded/assets/minecraft/textures/gui/font/default/font_08.png"
+hash = "407e0b82eadc325379ac9d0e3e13d39ae6b247f5544e97d1b710a4f527277af2"
+
+[[files]]
+file = "texturepacks/SF Pro Rounded/assets/minecraft/textures/gui/font/default/font_09.png"
+hash = "de8fe373afb9b8bcd48e43f68551cc7493b8010849a227723bf62a2f89951614"
+
+[[files]]
+file = "texturepacks/SF Pro Rounded/assets/minecraft/textures/gui/font/default/font_0A.png"
+hash = "e2997a731e2dd4964b796595336cecbaa9d9cc0dd2b76bf284a04061862bef1d"
+
+[[files]]
+file = "texturepacks/SF Pro Rounded/assets/minecraft/textures/gui/font/default/font_0B.png"
+hash = "3451a808d496236afb119aebae5636beeab8258954762e8703ab46955985c66c"
+
+[[files]]
+file = "texturepacks/SF Pro Rounded/assets/minecraft/textures/gui/font/default/glyph_sizes.bin"
+hash = "2b0e7bd9c8d2bd15c3cc2f3c12c2fb731353a6a97b41a8875a737b96e133f300"
+
+[[files]]
+file = "texturepacks/SF Pro Rounded/manifest.json"
+hash = "cf207e2ebf5535c6afff5e40ad652e2b8e4efc1cc3334709941ab83ae1f4f0d9"
+
+[[files]]
+file = "texturepacks/SF Pro Rounded/pack.png"
+hash = "0ab522d4ce751e997c1dc6a0b1f9ac20be180067b0cb24e32b061423f4f2e0f6"
