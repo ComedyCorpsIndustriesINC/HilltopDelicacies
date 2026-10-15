@@ -2,7 +2,8 @@
     "model_paths": [
 	"/assets/minecraft/models/entity/comedy.geo.json",
 	"/assets/minecraft/models/entity/fih.geo.json",
-	"/assets/minecraft/models/entity/ari.geo.json"
+	"/assets/minecraft/models/entity/ari.geo.json",
+	"/assets/minecraft/models/entity/Hasbeanfinal.geo.json"
     ],
     "custom_player_models": {
         "bde8a163-a659-4eb1-8145-83bc01e66d4c": {
@@ -13,6 +14,9 @@
         },
         "ffe23333-5dba-492b-a87c-ef8789a365ca": {
             "main": "geometry.player.base._mellll"            
+        },
+        "e67969cd-f997-446b-a0e4-66cbe51d0eeb": {
+            "main": "geometry.player.base.carbuncle"            
         }
     }
 }

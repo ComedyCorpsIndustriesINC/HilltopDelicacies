@@ -77,6 +77,10 @@ file = "servers_new.dat"
 hash = "229fee2269be1b6556a205ad5605dae4db897bd60bcf0df5c32c919b47ca5169"
 
 [[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/models/entity/Hasbeanfinal.geo.json"
+hash = "cb2adf899fda5f02fa1a7c77ceee91d0b30b2d21ba7da436fc3a726347f10ebc"
+
+[[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/models/entity/ari.geo.json"
 hash = "b96866f27cddcea5f66900bcd6283cea906f54c834c50d651388a07eea12f637"
 
@@ -90,7 +94,7 @@ hash = "a4cb54ee0873e954531eb92d72c70ce68f3876121f866ca63f3605b9ed793dc7"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/models/entity/models.json"
-hash = "7e92ea7ac81d7943f0c8141f309487dd7cda1edf2741466233954a24bdc50edb"
+hash = "e061fbdc9b25fd1cc5a9a8c90e9b1fa98e0a943f8b28c826739ae4cef6a16153"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/music/Hell Ballad.ogg"
