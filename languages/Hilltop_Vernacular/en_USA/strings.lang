@@ -87,12 +87,6 @@ damagetype.fire=Fire
 
 progress.tip=Tip: %s
 
-bed.occupied=This bed is occupied, dummy!!!
-bed.noSleep=You can only sleep at night or during thunderstorms :/ Get Real.
-bed.setSpawn=Respawn point set.
-bed.notValid=Your home bed was missing or the game could not respawn you at your bed.
-bed.noAllowSleeping=Sleeping is disabled (Fuuuuhkkkkk).
-bed.unsafeToSleep=It's not safe to sleep here. Watch Out.
 
 sign.image.none=None
 sign.image.arrow_right=Right Arrow
@@ -141,17 +135,17 @@ sign.image.check=Check
 sign.image.exit=Exit
 
 record.13=13
-record.cat=Cat
+record.cat=Hustlin'
 record.blocks=Blocks
 record.chirp=Chirp
 record.far=Far
-record.mall=Mall
+record.mall=Athletic Theme
 record.mellohi=Mellohi
 record.stal=Stal
 record.strad=Strad
 record.ward=Ward
 record.wait=Wait
-record.dog=Dog
+record.dog=Big Booty Bitches
 
 flag.full=You have too many flags on this map!
 flag.overwrite=Cannot overwrite an existing pattern.

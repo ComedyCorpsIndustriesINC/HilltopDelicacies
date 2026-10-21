@@ -11,3 +11,8 @@ hash = "ea9a7884277b86b98c8fb7d422deebc9f47bd6bb8d251a72e07e0d8e93bdc21a036f6396
 [update.modrinth]
 mod-id = "CxKHCBdU"
 version = "dIlPMdA8"
+
+[option]
+optional = true
+default = true
+description = "Adds helpful pop-up boxes containing info for the item you're hovering over. Can add to HUD bloat."

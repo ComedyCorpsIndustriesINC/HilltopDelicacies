@@ -44,5 +44,23 @@
 	  "random/treefo.ogg",
     ],
     "subtitle": "Herobrine makes a move..."
+  },
+      "record.dog": {
+    "replace": true,
+    "sounds": [
+      "music/BBB.ogg",
+    ]
+  },
+        "record.mall": {
+    "replace": true,
+    "sounds": [
+      "music/maro.ogg",
+    ]
+  },
+        "record.cat": {
+    "replace": true,
+    "sounds": [
+      "music/Hustlin.ogg",
+    ]
   }
 }

@@ -5,16 +5,24 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "languages/Hilltop_Vernacular/en_USA/gui.lang"
+hash = "55cd91bb3a2dacea467f8db605095ac843d958bb68176e7213b0a8a955a1f7e2"
+
+[[files]]
 file = "languages/Hilltop_Vernacular/en_USA/info.lang"
 hash = "e65603a97bbd10ff4114638d45edbecadba01468ac9fd00bcb387a6248cc033d"
 
 [[files]]
 file = "languages/Hilltop_Vernacular/en_USA/item.lang"
-hash = "9f4ce5af0da2f090bba05346ba81807daeb54a1ba6f4af9a0bf88c4b14229878"
+hash = "d924957272fceaf242ca3f0708b85b9243dbccdf7e47aeddc9ee2ed8c9174642"
+
+[[files]]
+file = "languages/Hilltop_Vernacular/en_USA/messages.lang"
+hash = "2b22524aef898dcb44dcbc6ac84ff73fb9fdcbddd500d208a73bf10a79cdb465"
 
 [[files]]
 file = "languages/Hilltop_Vernacular/en_USA/strings.lang"
-hash = "3e99f895f248367500f001b56e19d5329927e9e60b08f2b9663faa73d7c2e819"
+hash = "ef3a756b4f8d9702eecbb1f4f9355d9f000dd47af7474ca131fcf3a2213544e8"
 
 [[files]]
 file = "languages/Hilltop_Vernacular/en_USA/subtitles.lang"
@@ -55,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/btwaila.pw.toml"
-hash = "7b811926fee9d4d5f6458a893bb9ccda1c71fba125fa8d3ced5f86d49b0dd36d"
+hash = "b2e15e4f51b3226e0390963b1303237f8214afd61b23cb6948c0c55e902d838c"
 metafile = true
 
 [[files]]
@@ -70,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "3f0dd2e72ecf9c122d9634da07de531928766ed3f6e57bc32b1b73ea19bf97cd"
+hash = "a61c7043f2b26ff0704d035c15ab063665238c3e401d411cbe7524d54729343f"
 
 [[files]]
 file = "servers_new.dat"
@@ -97,8 +105,20 @@ file = "texturepacks/Hilltop Delicacies/assets/minecraft/models/entity/models.js
 hash = "e061fbdc9b25fd1cc5a9a8c90e9b1fa98e0a943f8b28c826739ae4cef6a16153"
 
 [[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/music/BBB.ogg"
+hash = "5b6a5b947f105e9dcb45141ff13baca900484c22f9af9fc87ee2701417b2c672"
+
+[[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/music/Hell Ballad.ogg"
 hash = "7315d68487aba6914edc3e36dd661e382a76ca5636b3e5d1f938ca024f4b61b7"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/music/Hustlin.ogg"
+hash = "aec85af1ee88a7a49bd325297f943492cf74bfa5f24774c02750c449cd844ec1"
+
+[[files]]
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/music/Maro.ogg"
+hash = "9f12d486711b887388c845d7ed2b8e633871097834616388cebf3fee8de8dbae"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/music/White Flame.ogg"
@@ -146,7 +166,7 @@ hash = "f4dc2651ea4afb235d11ea6d49707cd2290c456262e07b8836bfc6e694c411fa"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/sounds/sounds.json"
-hash = "54a83ade28403d65fc1056951914f7abfabebe452b9dd2faa1c1b2b8555b93b6"
+hash = "e1cd1d656b185b5c2a4aaff4596907c5d81ae6221ef59bf7ac2a54c2f4fc5f59"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/armor/chain_1.png"
@@ -522,55 +542,19 @@ hash = "7fb0b4191f36c0ad7d1743b6252bafc33909ce1ba88b23fa950eb8b5b6adce32"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/0.png"
-hash = "4eca45b4dbb0b2ece5658a205ce80cbc98778920e6f80f823810169b659d7f76"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/1.png"
 hash = "cbf8c46ad30cd8f5d15e82e7f96a43ad0d76c4fd5ea0e8f60163432a5849a6fe"
 
 [[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/2.png"
-hash = "ed9a8b6cd17fc44d4566103337f56853c8a7007649473972ad00a60aef0d6d31"
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/saddle.png"
+hash = "282d7dab4bee4904ca4fb0d6c8d6b5d550f5d3a5ca5769e97a8bda4687d0c2de"
 
 [[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/3.png"
-hash = "69effd9c8f4483a8e5884f30de1fe0c474e17272efb4b3eee1321c8a2ba98713"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/4.png"
-hash = "91479c70575bc65f93a93ca6d5175c63333fd79b97d30574ff5b79fdafc19c94"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/5.png"
-hash = "25e22eb483b3a6a0b84c7b72e55621df1a09e71fbfd1db6b5f01dd1d9837be1f"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/6.png"
-hash = "33b505769d8a2792cf674184f0a01176ad57cf12720caae77b50e6822fc34ffd"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/7.png"
-hash = "452e82e004e8590e1bcacb486e6d7ad71e60f985ff1b0f0636bac27dd4d4f441"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/8.png"
-hash = "56cc4d343f5ad780f87d729f6a4a396f6db406336d76583a6e24da6df76a6b2f"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/mask_alex.png"
-hash = "f1014cbc71ebe50c8a440e7109d22cfe1fa3fa063b11ba843da52f09d88363e3"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/mask_steve.png"
-hash = "4e6ac0bcd13e1e05c9c07012c98d70a3b09ccd9cb1a24479580722a675703910"
-
-[[files]]
-file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/char/variants.json"
-hash = "b7d54b88896bc2278f0b2f2255c3f1a71b9e9d7b4ecf3f47ad8c3ae2f48f6bb5"
+file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/entity/skeleton/2.png"
+hash = "a59640a2faf33c16c41ed9d594169bc29997360fc7348b6448ea231cee27974a"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/environment/clouds.png"
-hash = "3fd9923c6a64318c639c5fe1580eae48f982822da13cb4c5d34a77816ca96ab8"
+hash = "1ab7f46930cf15c31c6149fbad133bb738da8d645dd05ecbcbb60f7cb9fa9abf"
 
 [[files]]
 file = "texturepacks/Hilltop Delicacies/assets/minecraft/textures/environment/snow.png"
